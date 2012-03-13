@@ -1,0 +1,81 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: huxiangking (冬天), 信区: CCST
+标  题: “中科杯”全国软件设计大赛 
+发信站: 吉林大学牡丹园站 (Mon May 30 11:53:48 2011)
+
+希望置顶
+
+第二届“中科杯”诚邀在校青年学子参加
+	“中科杯”以“大力发展民族软件产业，培养创新型青年软件人才”为宗旨，大赛坚持鼓
+励创新，把鼓励创新作为大赛第一要义；坚持立足公益，不收取任何报名、评审费用，并
+且解决京外决赛队伍往返路费和在京住宿；坚持公平、公开、公正的评审原则。聘请权威
+评审专家，设立严密的评审流程保证大赛的公平、公正，评审过程中的成绩和信息将在大
+赛网站公布，做到公开。希望通过富有自由、开放、创新精神的大赛，为广大青年提供一
+个提高自我、展示才华的舞台，为我国民族软件产业发掘和培养更多的优秀青年人才。
+
+	本次大赛是由中国软件行业协会和中国科学院软件研究所共同主办，由中科方德软件有限
+公司和中科软科技股份有限公司共同赞助，由中国科学院软件研究所研究生会承办。本届
+大赛邀请到包括董韫美院士、何新贵院士、林惠民院士、倪光南院士、沈昌祥院士、张钹
+院士、周巢尘院士在内的53名知名专家学者组成大赛指导委员会，并邀请到包括北京大学
+、清华大学、中国科学院研究生院在内的59所全国重点院校的计算机相关院系协办本次大
+赛。
+大赛流程
+	本届大赛将从4月25日开始报名，9月末举行颁奖仪式，历时半年。具体赛程和评审流程如
+下：
+	2011年4月25日0时至6月15日24时，大陆和港澳台地区的在校青年学生可自由组队参加大
+赛，登陆大赛官方网站在线报名。
+	2011 年7 月15日前大赛参赛队伍需向大赛组委会提交中期报告。
+	2011 年8 月31日前各支参赛队伍需向大赛组委会提交参赛作品终稿，包括可执行程序、
+源代码、作品演示视频以及相关文档。
+	大赛评审分为初步评审和决赛评审两部分：
+	2011 年9 月中上旬初步评审先分组进行，通过各组评委独立评分、小组统分、按作品得
+分高低排序确定入围决赛的候选作品名单(约50件)，然后组织若干位知名专家对候选作品
+集中进行评审确定最终入围决赛阶段的作品名单(约20件)。 
+	2011 年9 月下旬在中国科学院软件研究所举行大赛决赛，决赛阶段包括作品布展和决赛
+评审。评审委员会对参加决赛的作品进行仔细观摩和现场问辩，然后通过打分投票在入围
+决赛的作品中评选出最终获奖作品。
+大赛题目
+	“中科杯”以鼓励青年学子大胆创新为目标，对提交作品不限制主题。特别欢迎计算机领
+域新的应用创意，甚至现在还没有的应用。 
+大赛针对软件产业移动化、网络化的发展趋势，从鼓励大学生联系社会实际、积极承担社
+会责任出发，对作品作三个方向的主题建议，分别是：基于手机移动平台的应用软件、现
+代WEB编程技术在数字娱乐平台上的应用、新兴软件技术的科普。
+  大赛将从作品的创新性、实用性、设计的合理性、完整性、先进性、系统的稳定性；作
+品原代码编写风格，相关文档是否完整以及团队合作精神等方面对参赛作品进行评审并最
+终确定获奖作品。大赛对编程语言不做限制。
+奖项设置
+大赛给予获奖作品优厚的奖励，大赛设：
+特等奖1个，奖金20000元，颁发“中科杯”和证书 
+    一等奖2个，奖金10000元，颁发证书 
+    二等奖3个，奖金5000元，颁发证书 
+    三等奖5个，奖金3000元，颁发证书 
+    优秀参赛奖与成功参赛奖若干，颁发纪念证书 
+    另外，在大赛中获得特等奖和一、二、三等奖的团队成员，如果获得所在学校的推免
+资格，在中科院软件所2012年推免生招生中将予优先考虑。
+	本次大赛开通了官方人人网公共主页，新浪微博、腾讯微博。欢迎大家就大赛的相关问题
+在线与我们讨论。我们将及时回复。
+	详情请登录<a target=_blank href='http://cscup.iscas.ac.cn/'>http://cscup.iscas.ac.cn/</a>
+
+
+--
+
+
+<font class=c34>※ 来源:．吉林大学牡丹园站档ぴ罢� bbs.jlu.edu.cn [FROM: 49.140.49.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 25 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/bg.gif></td><td><font color=red><a href=bbsqry?userid=huxiangking>huxiangking</a> </font> (冬天) 共上站 177 次，网龄 1280 天	不详  发表文章 44 篇<br><br>经验值：1478(高级站友) 表现值：[3](赶快加油) 荣誉勋章：<font color=red>★</font> [0颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306727628.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306727628.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306727628.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306727628.A>修改文章</a>][<a href='bbspst?board=CCST&num=4101&file=M.1306727628.A&userid=huxiangking&title=Re: “中科杯”全国软件设计大赛  '>回文章</a>][<a href='bbstcon?board=CCST&root=1306727628 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306678195.A&num=4100>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306727722.A&num=4102>下一篇</a>]</center>
+
+</html>
+
+0
+

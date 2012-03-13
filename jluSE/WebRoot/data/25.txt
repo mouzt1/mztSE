@@ -1,0 +1,170 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: amedao (哈罗啊), 信区: CCST
+标  题: 微软亚洲研究院推荐实习生
+发信站: 吉林大学牡丹园站 (Mon May 30 14:43:35 2011)
+
+感觉有适合自己职位的直接投递：）
+请大家把邮件标题以“校友推荐-推荐人XX-被推荐人XX-申请的组名”命名，并把申请表一
+起发送到MSRAih@microsoft.com
+务必填写申请表，下载链接：
+<a target=_blank href='http://www.msra.cn/Downloads/DownloadItem.aspx?Guid=5a99cb19-ed7e-42f7-8bbd-95'>http://www.msra.cn/Downloads/DownloadItem.aspx?Guid=5a99cb19-ed7e-42f7-8bbd-95</a>
+8b67f7a986
+或者把简历发给我，然后我帮着推荐下。jihuifang_1986@yahoo.cn
+
+现在移动传感组、网络多媒体组、创新工程中心、技术战略组、硬件计算组、搜索技术中
+心正在招聘实习生，了解各组详情请见<a target=_blank href='http://www.msra.cn/aboutus/ResearchTeam.aspx'>http://www.msra.cn/aboutus/ResearchTeam.aspx</a>
+。
+每个职位都有对应的要求，希望大家用慧眼去发现下身边哪些人适合兵器赶紧推荐！！而
+且最好写一个简单的推荐理由，这样成功率更高哦
+ 
+移动传感组实习生1名
+Roles &amp; Responsibilities
+This intern will maintain SenseWeb and SensorMap (<a target=_blank href='http://sensormap.cloudapp.ne'>http://sensormap.cloudapp.ne</a>
+t/) as well as development new features and functions. SenseWeb is a peer prod
+uced sensor network that consists of sensors deployed by contributors across t
+he globe; SensorMap is one application that mashes up sensor data from SenseWe
+b on an interactive map interface. You will work with experienced researcher o
+n Mobile and Sensing System.
+ 
+Required Qualifications:
+1. Strong programming skills.
+2. Have project experiences on Silverlight web application.
+3. Familiar with T-sql and Store Procedure
+4. Experience on mobile application development as a plus.
+5. Good spoken, reading and written English.
+6. Good communication and presentation skill as a plus
+7. Can commit at least 3 months internship, can get your advisor’s approval
+
+ 
+网络多媒体组实习生2名
+Roles &amp; Responsibilities
+The interns will be working with Feng Wu, on applications of three dimensional
+ shape/range measurements. The interns will be required to conduct programming
+, simulation, and experiment for various research projects, or if capable, con
+duct mathematical analysis of algorithms and solve new problems.
+ 
+Required Qualifications:
+1. MS/PhD in related technical field and possess the following skills;
+2. Background in three dimensional range/shape measurements; three dimension r
+econstruction;
+3. Background in optics, digital speckle, or structured light techniques is a 
+plus;
+4. Good programming skills or have related project experience;
+5. Good reading, written, and oral English;
+6. Good communication skills and excellent teamwork.
+7. Can commit at least 6 months internship, can get your advisor’s approval.
+
+ 
+创新工程中心编辑类实习生2名
+Roles &amp; Responsibilities
+The interns will be working with program manager, developers and editors in “
+Microsoft Academic Search” (<a target=_blank href='http://academic.research.microsoft.com'>http://academic.research.microsoft.com</a> project. 
+The editor intern’s responsibilities are:
+1. re:
+1. Collect customer’s feedback (in forums, blogs, or other social media), and
+ share those feedback with the team.
+2. Respond to customer’s feedback in a professional manner.
+3. Fix issues reported by internal and external feedback by using internal too
+ls
+4. Study customer needs in an academic domain (e.g. Microbiology, Psychiatry),
+  evaluate the strength and weak areas of project features in these areas.
+5. Propose improvements to the system, and communicate that with the rest of t
+he team.
+6. Conduct other Quality Assurance work. 
+ 
+Required Qualifications:
+1. College students in Language-related majors, or Liberal Arts, Library Scien
+ce, Information Science majors.
+2. Familiar with Microsoft Office software tools, web search tools;
+3. Great reading, written, and oral English;
+4. Good communication skills and excellent teamwork;
+5. Knowledge of other foreign languages is a strong plus;
+6. Can commit at least 3 months internship, can get your advisor’s approval.
+
+ 
+技术战略组Kinect相关研究实习生1名
+Roles &amp; Responsibilities
+The interns will be working on creating novel scenarios based Microsoft Xbox K
+inect related technologies. The interns will be required to conduct programmin
+g, simulation, and experiment for various research projects, or if capable, co
+nduct mathematical analysis of algorithms and solve new problems.
+ 
+Required Qualifications:
+1. MS/PhD in Electrical Engineering and Computer Science or any related techni
+cal field and possess the following skills;
+2. Requirements in the following research areas
+3. Strong in signal and image processing
+4. Solid mathematics (linear algebra, optimization, statistics)
+5. Background in machine learning (clustering, learning, classification)
+6. Good programming skills or have related project experience;
+7. Good reading, written, and oral English;
+8. Good communication skills and excellent teamwork.
+9. Can commit at least 6 months internship, can get your advisor’s approval.
+
+ 
+硬件计算组实习生1名
+Roles &amp; Responsibilities
+We are looking for proactive fresh young minds to working with us and building
+ the next generation of specialized acceleration platform; the successful inte
+rnship candidate will be working with group of talented researchers and engine
+ers to develop, implement and validate the reconfigurable logic blocks at 30% 
+of his/her time and for the rest 70% will participate in system-level design o
+n realistic hardware platforms. Desired candidate should have good analytical 
+skills with can-do attitude. If you are a good self-starter searching for the 
+rewarding experience then we are looking for you.
+ 
+Required Qualifications:
+1. Electrical Engineering or Computer Sciences Background
+2. Experience at System-Level Hardware Design
+3. Proficient at programming in C
+4. Device driver programming experience
+5. Hands-on experience at various lab equipment
+6. Excellent communication skill and able to working at a strong teamwork envi
+ronment
+7. Board-level verification experience is a plus 
+8. Experience in high-speed interface troubleshooting is considered a plus
+9. Experience in FPGA development with the Verilog HDL is a plus
+10. Experience at System C is a plus
+11. Requires your advisor’s approval and can commit at least 6 months as full
+time internship
+ 
+搜索技术中心2名
+Roles &amp; Responsibilities
+The interns will be working with the STCA Data Mining team to apply data minin
+g and statistics techniques to process and experiment large volume of search d
+ata and generate useful insights. The interns will be required to conduct prog
+ramming, data processing, reporting, and experimentation for various data mini
+ng projects.
+ 
+Required Qualifications:
+1. Advanced degree (Master, PhD) in data mining, computer sciences, statistics
+, machine learning, mathematics, or related fields
+2. Strong knowledge in areas such as statistics, data analysis, data mining, w
+eb mining, machine learning, informational retrieval, and database.
+3. Good programming skills or have related project experience (e.g. SQL/C#/SQL/C#/C++
+)
+4. Good reading, written, and oral English;
+5. Good communication skills and excellent teamwork.
+6. Can commit at least 6 months internship, can get your advisor’s approval.
+--
+
+
+<font class=c37>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 59.72.109.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 125 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/gq.gif></td><td><font color=red><a href=bbsqry?userid=amedao>amedao</a> </font> (哈罗啊) 共上站 235 次，网龄 1121 天	天蝎座  发表文章 209 篇<br><br>经验值：1413(高级站友) 表现值：[10](努力中) 荣誉勋章：<font color=red>★</font> [0颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306737815.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306737815.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306737815.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306737815.A>修改文章</a>][<a href='bbspst?board=CCST&num=4105&file=M.1306737815.A&userid=amedao&title=Re: 微软亚洲研究院推荐实习生 '>回文章</a>][<a href='bbstcon?board=CCST&root=1306737815 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306732736.A&num=4104>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306745768.A&num=4106>下一篇</a>]</center>
+
+</html>
+
+0
+

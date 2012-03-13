@@ -1,0 +1,54 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: zengyingying (宝贝驴), 信区: CCST
+标  题: Re: 基础书籍篇--个人意见
+发信站: 吉林大学牡丹园站 (Wed May 25 16:33:28 2011)
+
+蓝蓝说的对，基础的里面第一本掌握基本就可以了，有更高要求的，可以自己选择，
+时间有限的话不要贪多贪大。
+
+
+【 在 lanseyokey 的大作中提到: 】
+: 
+: 
+: 对于现在大三、研二的同学，下学期就开始找工作了，时间有限，不可能每本书都能..
+: 一遍，像《C++ Primer》一千多页，除非你每天看一章，否则全部看完还是需要很长..
+: 间的。
+: 下面给出一个书单，我基本看了这些书，大部分的笔试都过了。 
+: 
+: 基础篇：
+: 
+: 1. C 程序设计
+: 谭浩强版的重在基础，要是基础不牢固再过一遍吧；
+: 个人推荐Brian和Dennis的《C程序设计语言》，我看的是徐宝文的译本。
+: 
+: 2. C++ 程序设计
+: 谭浩强版依据重在基础，有人推荐看钱能版的（我没看过），可以搭配着《C++ Prim..
+: 一起看。
+: 注意：字符数组和字符串，数组和指针，函数指针及调用，const变量、常量，变量�..
+: 存周期，内存的申请和释放，类、继承、虚函数、多态等。
+: 
+: 3. 数据结构 
+: (以下引言省略...)
+
+--
+
+
+<font class=c36>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 219.217.56.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 24 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/gq.gif></td><td><font color=red><a href=bbsqry?userid=zengyingying>zengyingying</a> </font> (宝贝驴) 共上站 705 次，网龄 2057 天	金牛座  发表文章 2046 篇<br><br>经验值：4934(本站元老) 表现值：[32](还不错) 荣誉勋章：<font color=red>★</font> [233颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306312408.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306312408.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306312408.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306312408.A>修改文章</a>][<a href='bbspst?board=CCST&num=4061&file=M.1306312408.A&userid=zengyingying&title=Re: 基础书籍篇--个人意见 '>回文章</a>][<a href='bbstcon?board=CCST&root=1306160719 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306312234.A&num=4060>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306314596.A&num=4062>下一篇</a>]</center>
+
+</html>
+
+0
+

@@ -1,0 +1,55 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: shirleysnow (shirleysnow), 信区: CCST
+标  题: 大四低价出售计算机类教程，书目详见内容
+发信站: 吉林大学牡丹园站 (Tue May 24 11:31:21 2011)
+
+
+计算机类教材：
+《嵌入式系统原理与接口技术》  清华大学出版社       10元
+《计算机组成原理》  电子工业出版社                 8元
+《计算机网络》  高等教育出版社						8元
+《数据结构（刘大有）》  高等教育出版社				8元
+《ARM系统实践教程》  吉林大学出版社				3元
+《计算机系统结构》  高等教育出版社					5元
+《网络协议分析与故障诊断技术》  吉林大学			
+《网络协议仿真教学系统》  机械工业出版社        以上两本共5元
+《数值计算方法》  科学出版社						5元
+《Visual C++ 图形程序设计》  机械工业出版社			10元
+《操作系统习题册》                                  3元
+《微机原理》（共两本）教材+上机讲义                  10元
+《编译程序的设计与实现》——编译原理的上机课本      5元
+
+《C++语言基础教程》（9成新）  清华大学出版社       10元
+《汇编语言程序设计教程》（全新）  清华大学出版社		15元
+《计算机图形学基础教程》（全新）  清华大学出版社		15元
+
+公共课类    
+（均5元一本）
+《大学生就业指导教程》  吉林大学                  
+《毛泽东思想和中国特色社会主义理论体系概论》 高等教育出版社
+《思想道德思想和法律基础》 高等教育出版社
+《中国近现代史纲要》  高等教育出版社
+《马克思主义基本原理概论》 高等教育出版社
+
+--
+
+
+<font class=c31>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 49.140.37.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 61 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/gb.gif></td><td><font color=red><a href=bbsqry?userid=shirleysnow>shirleysnow</a> </font> (shirleysnow) 共上站 349 次，网龄 1187 天	处女座  发表文章 28 篇<br><br>经验值：1352(高级站友) 表现值：[2](赶快加油) 荣誉勋章：<font color=red>★</font> [0颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306207881.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306207881.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306207881.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306207881.A>修改文章</a>][<a href='bbspst?board=CCST&num=4032&fil032&file=M.1306207881.A&userid=shirleysnow&title=Re: 大四低价出售计算机类教程，书目详见内容 '>回文章</a>][<a href='bbstcon?board=CCST&root=1306207881 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306201428.A&num=4031>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306210111.A&num=4033>下一篇</a>]</center>
+
+</html>
+
+0
+

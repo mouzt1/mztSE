@@ -1,0 +1,63 @@
+<project name="jluSE" basedir="." default="index">
+	<property name="src.dir" value="src"/>
+	<property name="build.dir" value="build"/>
+	<property name="classes.dir" value="${build.dir}/classes"/>
+	<property name="jar.dir" value="${build.dir}/jar"/>
+	<property name="lib.dir" value="WebRoot/WEB-INF/lib"/>
+	<property name="jarfile" value="${ant.project.name}.jar"/>
+
+	<property name="index-class" value="jlu.index.Indexer"/>
+	<property name="search-class" value="jlu.search.Searcher"/>
+
+	<property name="data.dir" value="E:/Project/IBMculb/data"/>
+	<property name="index.dir" value="E:/Project/IBMculb/index/"/>
+
+
+	<path id="classpath">
+		<fileset dir="${lib.dir}" includes="**/*.jar"/>
+	</path>
+
+
+	<target name="clean">
+		<delete dir="${build.dir}"/>
+	</target>
+
+	<target name="compile">
+		<mkdir dir="${classes.dir}"/>
+		<javac srcdir="${src.dir}/jlu/index" destdir="${classes.dir}" includeantruntime="false">
+			<compilerarg line="-encoding GBK "/>  
+			<classpath refid="classpath"/>
+		</javac>
+		<javac srcdir="${src.dir}/jlu/search" destdir="${classes.dir}" includeantruntime="false">
+			<compilerarg line="-encoding GBK "/>  
+			<classpath refid="classpath"/>
+		</javac>
+	</target>
+
+	<target name="jar" depends="compile">
+		<mkdir dir="${jar.dir}"/>
+		<jar destfile="${jar.dir}/${ant.project.name}.jar" basedir="${classes.dir}"/>
+	</target>
+
+	<target name="index" depends="jar">
+		<java fork="true" classname="${index-class}">
+			<arg value="${index.dir}"/>
+			<arg value="${data.dir}"/>
+			<classpath>
+				<path refid="classpath"/>
+				<path location="${jar.dir}/${ant.project.name}.jar"/>
+			</classpath>
+		</java>
+	</target>
+
+	<target name="search" depends="jar">
+		<java fork="true" classname="${search-class}">
+			<arg value="${index.dir}"/>
+			<arg value="百度 实习生"/>
+			<classpath>
+				<path refid="classpath"/>
+				<path location="${jar.dir}/${ant.project.name}.jar"/>
+			</classpath>
+		</java>
+	</target>
+</project>

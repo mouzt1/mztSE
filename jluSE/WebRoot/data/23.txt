@@ -1,0 +1,57 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: KevinLv (红色幺鸡), 信区: CCST
+标  题: 软件形式化教研室2011年本科毕业论文答辩通知
+发信站: 吉林大学牡丹园站 (Mon May 30 16:56:08 2011)
+
+在本教研室撰写毕业论文的2007级本科生共40名，拟安排分三组答辩。
+答辩时间：2011年06月08日（上午8点30分）
+第一组：
+负责教师：刘磊，胡谦，张睿（B227，联系电话：85166480，13944153264）
+答辩学生（13人）：
+计算机：张轶睿，李默，王仲坤，杨安家，刘建超，周帅，贾鹏冲，薛宪堂，张鑫（男）
+
+软  件：毛彦淇，毛竹，徐珂，徐国威
+答辩地点待定
+第二组：张长海，杨冬，吕帅（B230，联系电话：85159375，15948003088）
+答辩学生（13人）：
+计算机：张鑫（女），刘冬清，苗频新，陶秋平，刘立旺，陆成健，杨创，牛昊
+软  件：杨宇威，董鹏，甄世玉，张志远，周长明
+答辩地点待定
+第三组：郭德贵，金英，贾成宇，张晶（B232，联系电话：85166810，13504404076）
+答辩学生（14人）：
+计算机：孙圣然，吴章龙，胡翔，韩井东，孟媛，刘玉龙，杨超，华树东
+软  件：付冉，牛云龙，王菡，王方乔，刘骞，薄俊丰
+答辩地点待定
+注意：
+1、请在得到指导教师同意的前提下打印论文，装订成册，随同相关材料，在6月6日前交给
+张鑫（计算机，女，联系电话：15948768827），王菡（软件，联系电话：15948762930）
+；6月7日上午交到计算机大楼B230室，6月8日上午参加答辩。
+2、请准备幻灯片，主讲5分钟，答辩预计3分钟，主要讲述自己做的工作和取得的结果或结
+论。
+--
+<font class=c37><font class=c36>╭══╮╭╮<font class=c33>╭════╮<font class=c35>╭═╮╭═╮<font class=c32>╭════╮<font class=c31>╭══╮╭╮<font class=c37>
+<font class=c36>║<font class=c37>╔  <font class=c36>╚╯║<font class=c33>║<font class=c37>╔    <font class=c33>╭╯<font class=c35>║<font class=c37>╔<font class=c35>║║  ║<font class=c32>║<font class=c37>╔      <font class=c32>║<font class=c31>║<font class=c37>╔  <font class=c31>║║║<font class=c37>
+<font class=c36>║<font class=c37>║  <font class=c36>╭═╯<font class=c33>║<font class=c37>║    <font class=c33>╰╮<font class=c35>║<font class=c37>║<font class=c35>║║  ║<font class=c32>╰╮    ╭╯<font class=c31>║╭╮║║║<font class=c37>
+<font class=c36>║CCST╰═╮<font class=c33>║lus@jlu ╯<font class=c35>║T1318080║<font class=c32>╭╯ QQ ╰╮<font class=c31>║║║Name║<font class=c37>
+<font class=c36>║SCKE╔╮║<font class=c33>║.edu.cn ╮<font class=c35>╰╮7643╭╯<font class=c32>║95473250║<font class=c31>║Lu Shuai║<font class=c37>
+<font class=c36>╰══╯╰╯<font class=c33>╰════╯  <font class=c35>╰══╯  <font class=c32>╰════╯<font class=c31>╰╯╰══╯<font class=c37>
+
+<font class=c35>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 59.72.109.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 60 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 idth=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/bg.gif></td><td><font color=red><a href=bbsqry?userid=KevinLv>KevinLv</a> </font> (红色幺鸡) 共上站 3773 次，网龄 2273 天	巨蟹座  发表文章 930 篇<br><br>经验值：5409(开国大老) 表现值：[18](还不错) 荣誉勋章：<font color=red>★</font> [72颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306745768.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306745768.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306745768.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306745768.A>修改文章</a>][<a href='bbspst?board=CCST&num=4106&file=M.1306745768.A&userid=KevinLv&title=Re: 软件形式化教研室2011年本科毕业论文答辩通知 '>回文章</a>][<a href='bbstcon?board=CCST&root=1306745768 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306737815.A&num=4105>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306806185.A&num=4107>下一篇</a>]</center>
+
+</html>
+
+0
+

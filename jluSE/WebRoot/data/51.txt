@@ -1,0 +1,67 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: mahaisu (mmpp), 信区: CCST
+标  题: 第二届“中科杯”全国软件设计大赛简介
+发信站: 吉林大学牡丹园站 (Sun May 29 09:21:39 2011)
+
+第二届“中科杯”全国软件设计大赛简介
+一、大赛简介
+“中科杯”全国软件设计大赛是中国科学院软件研究所于2009年发起，中国软件行业协会
+和中国科学院软件研究所共同主办的一项面向中国大陆和港澳台地区在校青年学生的公益
+性质的全国性软件设计大赛。旨在“大力发展民族软件产业，培养创新型青年软件人才”
+，大赛致力于正确引导我国在校的青年学子积极参加科技竞技活动，不断培养创新精神和
+团队意识，切实增强理论联系实际的能力，通过富有自由、开放、创新精神的软件设计大
+赛，为广大青年学子提供一个提高自我、展示才华的舞台，为我国民族软件行业发掘和培
+养更多的优秀青年人才。
+二、大赛的特点、成绩
+特点
+大赛核心目标在于培养软件领域的创新型青年学生人才。坚持培养学生的创新精神和团队
+意识，坚持增强学生理论联系实际的能力，以培养学生为宗旨。
+大赛坚持公益原则。大赛立足公益，努力为广大青年学子提供一个展示与历练的平台。各
+参赛队伍不但不需要缴纳任何报名费和评审费，而且京外队伍入围决赛还可获得往返路费
+及在京住宿费的支持。
+大赛坚持正规化、制度化、程序化的建设方向。大赛的定位和目标是将大赛办成全国同类
+软件设计大赛中最权威、影响最为广泛的长期比赛。
+成绩
+首届“中科杯”全国软件设计大赛启动后迅速得到了广大高校学生的支持和广泛关注，不
+但吸引了来自清华大学、北京大学、南京大学等全国200多所高校、研究所和部分中学的1
+311支参赛团队，覆盖了我国全部的“985工程”重点建设高校和绝大多数“211工程”建设
+高校，参赛队员有高中生、本科生、硕士生、博士生，是一项2009年度我国青年学生广泛
+参与的盛大赛事；而且赛出了水平、赢得了盛誉。
+十多家媒体跟踪报道大赛盛况，并对获奖团队进行了专访，高度评价了首届大赛的举办意
+义与参赛作品的水平，在全国高校范围内产生了强烈反响。参赛队伍在大赛中得到很大锻
+炼。参赛学生纷纷表示通过参加此次大赛很好地锻炼了理论联系实际能力、创新思维能力
+、团队协作能力等，是他们走出校门前生动的一课。
+详细信息请见首届比赛网址：cscup.iscas.ac.cn.
+三、大赛指导委员会和协办单位
+	大赛指导委员会由来自计算机领域的53位知名专家学者组成，其中包括董韫美、何新贵、
+林惠民、倪光南、沈昌祥、张钹、周巢尘七位院士。并且邀请到56所全国重点院校参与协
+办。
+四、联系方式
+地       址：  北京市海淀区中关村南四街4号中国科学院软件研究所
+邮       编：  100190
+邮       箱：	cscup2011@iscas.ac.cn 
+电       话：  138-1026-0694
+联  系  人： 崔强 
+
+--
+
+
+<font class=c31>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 219.217.14.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 48 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcol1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/gq.gif></td><td><font color=red><a href=bbsqry?userid=mahaisu>mahaisu</a> </font> (mmpp) 共上站 28 次，网龄 202 天	巨蟹座  发表文章 26 篇<br><br>经验值：236(一般站友) 表现值：[10](努力中) 荣誉勋章：<font color=red>★</font> [0颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306632099.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306632099.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306632099.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306632099.A>修改文章</a>][<a href='bbspst?board=CCST&num=4091&file=M.1306632099.A&userid=mahaisu&title=Re: 第二届“中科杯”全国软件设计大赛简介 '>回文章</a>][<a href='bbstcon?board=CCST&root=1306632099 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306588704.A&num=4090>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306633265.A&num=4092>下一篇</a>]</center>
+
+</html>
+
+0
+

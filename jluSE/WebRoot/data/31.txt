@@ -1,0 +1,209 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: huxiangking (冬天), 信区: CCST
+标  题: “中科杯”大赛情况介绍
+发信站: 吉林大学牡丹园站 (Mon May 30 11:55:22 2011)
+
+希望置顶
+
+大赛情况介绍
+一、大赛简介
+“中科杯”全国软件设计大赛是中国科学院软件研究所于2009年发起，中国软件行业协会
+和中国科学院软件研究所共同主办的一项面向中国大陆和港澳台地区在校青年学生的公益
+性质的全国性软件设计大赛。旨在“大力发展民族软件产业，培养创新型青年软件人才”
+，大赛致力于正确引导我国在校的青年学子积极参加科技竞技活动，不断培养创新精神和
+团队意识，切实增强理论联系实际的能力，通过富有自由、开放、创新精神的软件设计大
+赛，为广大青年学子提供一个提高自我、展示才华的舞台，为我国民族软件行业发掘和培
+养更多的优秀青年人才。
+二、大赛的特点、成绩
+特点
+大赛坚持创新原则，核心目标在于培养软件领域的创新型青年学生人才。坚持培养学生的
+创新精神和团队意识，坚持增强学生理论联系实际的能力，以培养学生为宗旨。
+大赛坚持公益原则。大赛立足公益，努力为广大青年学子提供一个展示与历练的平台。各
+参赛队伍不但不需要缴纳任何报名费和评审费，而且京外队伍入围决赛还可获得往返路费
+及在京住宿费的支持。
+大赛坚持公平、公正、公开原则。大赛设立组织严密的指导委员会、专家评审委员会和组
+织委员会，以保证竞赛公平；所有的程序、通知等及时在大赛主页公布，同时邀请合作媒
+体配合、监督，实现竞赛公开；大赛初评采用网络展示、匿名评审、结果公示等方式，决
+赛采用现场答辩的方式、有机会面对面与专家沟通，做到竞赛公正。
+大赛坚持开放原则。参赛者不论地域、不论专业出身，不论院校背景均有资格报名，同时
+大赛的命题也具有很大的开放性，选手可以尽最大可能发挥自身的创造能力和创新能力。
+
+大赛坚持管理的创新性。大赛在组织和管理上进行大胆创新，整个大赛由中国科学院软件
+研究所研究生会承办。组委会全部成员均由中国科学院软件研究所和一流大学研究生会的
+学生骨干组成，探索了一条"院士指导、专家评审、学生组织、学生参赛"的新的全国性竞
+赛体制，为青年学子实现自我管理、自我锻炼、自我成长、自我提高进行了成功尝试，取
+得了新的宝贵经验。
+大赛坚持正规化、制度化、程序化的建设方向。大赛的定位和目标是将大赛办成全国同类
+软件设计大赛中最权威、影响最为广泛的长期比赛。
+大赛坚持权威性。大赛主办方是软件领域的权威机构，大赛指导委员会由包括7名院士在内
+的52位IT领域知名专家组成，保障了大赛的权威性。
+成绩
+首届“中科杯”全国软件设计大赛启动后迅速得到了广大高校学生的支持和广泛关注，不
+但吸引了来自清华大学、北京大学、南京大学等全国200多所高校、研究所和部分中学的1
+311支参赛团队，覆盖了我国全部的“985工程”重点建设高校和绝大多数“211工程”建设
+高校，参赛队员有高中生、本科生、硕士生、博士生，是一项2009年度我国青年学生广泛
+参与的盛大赛事；而且赛出了水平、赢得了盛誉。
+大赛涌现出大量质量高、创意新的优秀作品，许多作品或新颖有趣或切近市场实用，有着
+新生代软件设计者的典型特色。大部分作品构思巧妙、设计合理，具有良好的应用前景具
+备了使用推广价值。
+十多家媒体跟踪报道大赛盛况，并对获奖团队进行了专访，高度评价了首届大赛的举办意
+义与参赛作品的水平，在全国高校范围内产生了强烈反响。
+参赛队伍在大赛中得到很大锻炼。参赛学生纷纷表示通过参加此次大赛很好地锻炼了理论
+联系实际能力、创新思维能力、团队协作能力等，是他们走出校门前生动的一课。
+三、大赛流程
+注册报名: 2011年4月25日0时至6月15日24时，大陆和港澳台地区的在校青年学生可自由组
+队参加大赛（每队最多由3 人组成），登陆大赛官方网站（<a target=_blank href='hthref='http://cscup.iscas.ac.cn）'>http://cscup.iscas.ac.cn）</a>
+在线报名。
+中期报告：2011 年7 月15日前大赛参赛队伍需向大赛组委会提交中期报告，以便组委会对
+各支参赛队伍的工作进行跟踪、监督和指导。
+作品提交：2011 年8 月31日前各支参赛队伍需向大赛组委会提交参赛作品终稿，包括可执
+行程序、源代码、作品演示视频以及相关文档（如软件过程相关文档、用户说明书等）。
+
+初赛：2011 年9 月中上旬初步评审先分组进行，通过各组评委独立评分、小组统分、按作
+品得分高低排序确定入围决赛的候选作品名单(约50件)，然后组织若干位知名专家对候选
+作品集中进行评审确定最终入围决赛阶段的作品名单(约20件)。
+决赛：2011 年9 月下旬在中国科学院软件研究所举行大赛决赛（决赛队伍来京往返路费可
+报销），决赛阶段包括作品布展和决赛评审。评审委员会对参加决赛的作品进行仔细观摩
+和现场问辩，然后通过打分投票在入围决赛的作品中评选出最终获奖作品。
+四、奖项设置
+特等奖1个，奖金20000元，颁发“中科杯”和证书 
+一等奖2个，奖金10000元，颁发证书 
+二等奖3个，奖金5000元，颁发证书 
+三等奖5个，奖金3000元，颁发证书
+优秀参赛奖与成功参赛奖若干，颁发纪念证书
+ 另：在大赛中获得特等奖和一、二、三等奖的团队成员，如果获得所在学校的推免资格，
+在中科院软件所2012年推免生招生中将予优先考虑。
+五、大赛指导委员会和协办单位
+大赛指导委员会由来自计算机领域的53位知名专家学者组成，其中包括董韫美、何新贵、
+林惠民、倪光南、沈昌祥、张钹、周巢尘七位院士。并且邀请到56所全国重点院校参与协
+办。
+指导委员会除7位院士外还有：
+按名字拼音排序：
+操云甫	中国科学院软件研究所所长助理，研究员
+曾明	西安交通大学软件学院常务院长
+常会友	中山大学软件学院副院长
+陈冲	中国软件行业协会理事长
+陈志刚	中南大学软件学院院长
+程仁洪	南开大学软件学院副院长
+丁刚毅 北京理工大学软件学院院长、教授
+杜小勇	中国人民大学信息学院院长
+冯登国	中国科学院软件研究所副总工程师，研究员
+郭东伟	吉林大学计算机科学与技术学院教授
+郭禾	大连理工大学软件学院副院长
+韩国强	华南理工大学计算机科学与工程学院院长
+何炎祥	武汉大学计算机学院院长
+胡昆山	中国软件行业协会副理事长兼秘书长
+胡晓惠	中国科学院软件研究所副总工程师，研究员
+黄河燕	北京理工大学计算机学院院长
+黄涛	中国科学院软件研究所学位评定委员会主席，研究员
+金海	华中科技大学计算机学院院长
+李明树	中国科学院软件研究所所长
+李庆诚	南开大学软件学院院长
+李彤	云南大学软件学院院长
+李文军	中山大学软件学院院长
+李玉成	中国科学院软件研究所党委书记，研究员
+李战怀	西北工业大学计算机学院副院长
+廖湘科	国防科技大学计算机学院院长
+刘克龙	中国科学院软件研究所科技处处长，研究员
+刘志勇	中国科学院软件研究所信息中心主任
+马华东 北京邮电大学计算机学院执行院长
+马培军	哈尔滨工业大学软件学院副院长
+孟祥旭	山东大学软件学院院长
+盛杰	中国软件行业协会副秘书长
+宋茂强	北京邮电大学软件学院院长
+孙茂松	清华大学计算机科学与技术系主任
+孙仕亮	华东师范大学计算机科学技术系副主任
+王飞跃	西安交通大学软件学院院长
+王继喆	中科方德软件有限公司总裁
+王青	中国科学院软件研究所副总工程师，研究员
+徐帆江	中国科学院软件研究所所长助理，研究员
+薛向阳	复旦大学计算机科学与技术学院副院长
+张健	中国科学院软件研究所所长助理，研究员
+张晓刚	中国科学院软件研究所所长助理，研究员
+赵琛	中国科学院软件研究所副所长，研究员
+赵建军	上海交通大学软件学院教授
+周昌乐	厦门大学信息科学与技术学院院长
+周明全	北京师范大学信息科学与技术学院院长
+左春 	中科软科技股份有限公司总裁，研究员
+56所协办院校包括
+协办单位（按拼音排序）：
+北京大学信息科学技术学院
+北京科技大学计算机与通信工程学院
+北京理工大学软件学院
+北京林业大学信息学院
+北京师范大学信息科学与技术学院
+北京邮电大学软件学院
+重庆大学计算机学院
+长安大学团委
+大连理工大学计算机科学与技术学院
+电子科技大学软件学院、计算机学院
+东北大学信息科学与工程学院
+东北师范大学软件学院、计算机科学与信息技术学院 
+东南大学软件学院
+福州大学数学与计算机科学学院
+复旦大学计算机科学技术学院
+国防科学技术大学学术成果处
+哈尔滨工程大学计算机科学与技术学院
+哈尔滨工业大学软件学院
+河北工业大学计算机科学与软件学院
+湖南大学信息科学与工程学院
+华南理工大学计算机学院
+华中科技大学计算机科学与技术学院
+华中师范大学计算机科学系
+吉林大学计算机学院
+南昌大学团委
+南京大学软件学院
+南京航空航天大学计算机科学与技术学院
+南开大学软件学院
+内蒙古大学计算机学院
+清华大学计算机科学与技术系
+山东大学团委
+山东建筑大学计算机学院
+陕西师范大学计算机科学学院
+上海大学计算机工程与科学学院
+四川大学计算机学院
+天津大学学工部
+喂げ�
+武汉大学计算机学院
+武汉理工大学计算机学院
+西安电子科技大学软件学院
+西安交通大学软件学院
+西安邮电学院计算机学院
+西北大学信息学院
+西北工业大学计算机学院
+西南大学计算机学院
+西南交通大学信息科学与技术学院
+厦门大学信息科学与技术学院
+新疆大学信息科学与工程学院
+中国传媒大学计算机学院
+中国地质大学（北京）软件学院
+中国海洋大学信息科学与工程学院
+中国科技大学东区校团委
+中国科学院研究生院
+中国矿业大学计算机科学与技术学院
+中国人民大学信息学院
+中国石油大学(北京)信息学院
+中南大学信息科学与工程学院 
+
+--
+
+
+<font class=c31>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 49.140.49.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 30 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/bg.gif></td><td><font color=red><a href=bbsqry?userid=huxiangking>huxiangking</a> </font> (冬天) 共上站 177 次，网龄 1280 天	不详  发表文章 44 篇<br><br>经验值：1478(高级站友) 表现值：[3](赶快加油) 荣誉勋章：<font color=red>★</font> [0颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306727722.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306727722.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306727722.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306727722.A>修改文章</a>][<a href='bbspst?board=CCST&num=4102&file=M.1306727722.A&userid=huxiangking&title=Re: “中科杯”大赛情况介绍 '>回文章</a>][<a href='bbstcon?board=CCST&root=1306727722 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306727628.A&num=4101>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306732410.A&num=4103>下一篇</a>]</center>
+
+</html>
+
+0
+

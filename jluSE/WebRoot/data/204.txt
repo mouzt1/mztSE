@@ -1,0 +1,37 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: liufeimu (最接近神的人), 信区: CCST
+标  题: 有偿求助:懂VB数据库的进
+发信站: 吉林大学牡丹园站 (Mon May 23 15:31:51 2011)
+
+
+我弟弟车辆本科生，毕业设计涉及到用VB做数据库，有高手的话可以帮忙，价钱商量。
+
+
+   要求：利用VB，为某汽车4S店进行抽奖系统设计，模块：登陆（管理人员，客户）；客
+户管理，抽奖管理等。                功能：该系统每期准备设立4个奖项，一等奖一名
+，二等奖三名，三等奖五名，四等奖若干。中奖人员不得参与下期抽奖，没中奖人员与新
+的客户信息进入下一期抽奖。                       系统要有查询每期中奖人员信息，
+进行统计，分析等功能 
+ 联系方式：  QQ：729022338
+--
+
+
+<font class=c31>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 59.72.113.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 40 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/bq.gif></td><td><font color=red><a href=bbsqry?userid=liufeimu>liufeimu</a> </font> (最接近神的人) 共上站 54 次，网龄 614 天	摩羯座  发表文章 31 篇<br><br>经验值：672(中级站友) 表现值：[5](赶快加油) 荣誉勋章：<font color=red>★</font> [0颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306135911.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306135911.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306135911.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306135911.A>修改文章</a>][<a href='bbspst?board=CCST&num=4017&file=M.1306135911.A&userid=liufeimu&title=Re: 有偿求助:懂VB数据库的进 '>回文章</a>][<a href='bbstcon?board=CCST&root=1306135911 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306130740.A&num=4016>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306137930.A&num=4018>下一篇</a>]</center>
+
+</html>
+
+0
+

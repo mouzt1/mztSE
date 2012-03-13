@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  <display-name></display-name>	
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+  <filter>
+  	<filter-name>language</filter-name>
+  	<filter-class>jlu.web.LanguageFilter</filter-class>
+  </filter>
+  <filter-mapping>
+  	<filter-name>language</filter-name>
+  	<url-pattern>/*</url-pattern>
+  </filter-mapping>
+  
+  <servlet>
+  	<servlet-name>search</servlet-name>
+  	<servlet-class>servlet.SearchSer</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>search</servlet-name>
+  	<url-pattern>/mySearch</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>getContentSer</servlet-name>
+  	<servlet-class>servlet.getContentSer</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>getContentSer</servlet-name>
+  	<url-pattern>/getContentSer</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>searchByPage</servlet-name>
+  	<servlet-class>servlet.SearchByPageSer</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>searchByPage</servlet-name>
+  	<url-pattern>/mySearchByPage</url-pattern>
+  </servlet-mapping>
+  
+    <servlet>
+  	<servlet-name>autoCompleted</servlet-name>
+  	<servlet-class>servlet.AutoCompletedSer</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>autoCompleted</servlet-name>
+  	<url-pattern>/autoCompleted</url-pattern>
+  </servlet-mapping>
+</web-app>

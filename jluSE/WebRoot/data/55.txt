@@ -1,0 +1,47 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: liuxinmeili (linx47), 信区: CCST
+标  题: 百度质量部内推
+发信站: 吉林大学牡丹园站 (Sat May 28 13:38:43 2011)
+
+招聘对象：社招，校招，实习生
+工作职责：与产品经理，研发和测试工程师密切合作，开发与
+设计用于自动化测试的系统平台以及相关工具，并计划，设计
+与实现有关自动化测试的代码与用例，以保证整体开发与测试
+流程的自动与高效。通过自动化的方法，执行测试代码和测试
+用例，高效准确地跟踪与定位产品软件与测试工具中的缺陷或
+问题， 排除产品或系统的隐患，以保证最终产品的质量。
+职位要求：        
+1. 非常热爱互联网及相关技术        
+2. 逻辑思维强，有责任心，有团队合作精神        
+3. 对软件测试领域有发现问题，解决问题的浓厚兴趣        
+4. 精通C/C++，或Java/C#/perl/python/php等程序设计语言      
+5. 熟悉Linux/Unix系统， MySql/Oracle及相关数据库技术
+工作地点：北京
+丰厚的薪资福利待遇，餐补，房补，以及丰富的业余活动。
+有意者发简历至：haojianying@baidu.com，以：姓名+专业+学校 为邮件主题
+--
+
+
+<font class=c35>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 59.72.109.*]<font class=c37>
+
+※ 修改:．liuxinmeili 於 May 28 13:41:32 2011 修改本文．[FROM: 59.72.109.*] 
+※ 修改:．liuxinmeili 於 May 28 13:44:30 2011 修改本文．[FROM: 59.72.109.*] 
+※ 修改:．liuxinmeili 於 May 28 13:46:35 2011 修改本文．[FROM: 59.72.109.*] 
+※ 修改:．liuxinmeili 於 May 28 13:52:12 2011 修改本文．[FROM: 59.72.109.*] </font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 256 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/bq.gif></td><td><font color=red><a href=bbsqry?userid=liuxinmeili>liuxinmeili</a> </font> (linx47) 共上站 1421 次，网龄 948 天	双鱼座  发表文章 141 篇<br><br>经验值：1727(老站友) 表现值：[14](还不错) 荣誉勋章：<font color=red>★</font> [0颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306561123.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306561123.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306561123.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306561123.A>修改文章</a>][<a href='bbspst?board=CCST&num=4089&file=M.1306561123.A&userid=liuxinmeili&title=Re: 百度质量部内推 '>回文章</a>][<a href='bbstcon?board=CCST&root=1306561123 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306543451.A&num=4088>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306588704.A&num=4090>下一篇</a>]</center>
+
+</html>
+
+0
+

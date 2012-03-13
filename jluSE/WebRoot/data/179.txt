@@ -1,0 +1,376 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<body background='/mdbk1.gif' style="topmargin:20; background-attachment: fixed; scroll: auto;"><center>
+吉林大学牡丹园站 -- 主题文章阅读 [讨论区: CCST]<hr width=730 color=#c2e0ff><br><table width=610><pre>
+发信人: zengyingying (宝贝驴), 信区: CCST
+标  题: 关于求职（1）——准备篇（基础篇）
+发信站: 吉林大学牡丹园站 (Mon May 23 22:25:19 2011)
+
+
+      今天去学院参加了什么求职经验交流会，我们这届的几个人向师弟师妹介绍一下自
+己的求职过程，然后回答一些大家提出的问题。
+
+       说实话，我没什么经验，我的教训更多一些。
+
+       很多孩子问：这个职位是做什么的？那个职位是做什么的？要不要做技术？要不要
+改行？女孩儿做技术有没有前途？会不会太累之类的。
+
+       很明显，这些都是求职初期的问题，就是“思考期”吧，想想自己想做什么？能做
+什么？喜欢做什么？
+
+       振振说，应该树立目标，了解自己能做什么不能做什么，其实我很佩服他，他也就
+是这么做的，我对他的offer表示膜拜……这样的人，是一流的，他清楚的知道自己要的是
+什么，所以他的求职过程，包括他以后的人生，都会很快乐、很充实的度过。
+
+       但是大多数的孩子应该都是和我一样，不知道自己想要的是什么。我想，把我的经
+历写出来没什么意义，因为都过去了，但是我可以说一些经验教训，这些不仅仅是我一个
+人的，还有很多同学、很多师哥师姐的宝贵经验。这些放在一起，还是有一定的参考价值
+的。
+
+        在准备的过程中，其实大多数人都是在思考，可是思考往往是没有结果的，如果
+继续思考下去，招聘就开始了，计算机和别的专业不一样，在招聘的过程中，对学生的专
+业是有要求的，如果什么都不准备就投入到找工作的过程中去，结果会很悲惨。平时大家
+都看着差不多，可是准备时付出的努力不同，你们的结果可能完全不一样。
+
+        除非你彻底转行，不然，无论是做产品、销售、测试、研发……等等都是需要你
+有一定的基础知识的，最起码笔试中是一定要有技术题的，这一关没有人能帮你，你一定
+要自己过。即使你要考公务员，很多要求计算机专业的岗位也会在面试阶段加试专业题，
+这个基本是不可以避免的。
+
+        在此就告诉一下大家，作为一个计算机专业的学生，如何进行专业课方面的基础
+复习。以下书单不是我总结的，而是前几届的师哥师姐（超级牛人类型的）总结整理、不
+断“升级”的。事实证明，如果能真的按照这个顺序复习完，一般的笔试是绝对拦不住你
+的，如果能看的比较详细，一般的技术面是不成问题的；如果这几书都弄得相当明白了，
+估计只要不是你人格上过于分裂，一般的技术类笔试、面试，你都所向披靡了。（PS：我
+在第一个阶段，呵呵）。另外，这些书大部分价格不菲，而且你们的师哥师姐很可能会有
+，所以可以在BBS上搜一下看看有没有人出售，也可以周六周日在南区的跳蚤市场找一下，
+不建议大家买新的，浪费银子，我就是买的全新的，结果是：真的很贵……呵呵。我会和
+我认识的所有的同届同学说，争取把这些书里面他们有的，都发到BBS上转让或者到跳蚤市
+场卖了，不过也有一些是我们想珍藏的，因为一些书对于做技术的人来说，是很美好的回
+忆，价值非凡啊！
+
+      
+
+ 
+
+一、基础专业知识：
+
+1、C：《谭浩强那本C就行》
+
+C++：《钱能第四版》、《高质量C++编程（林锐）》、《Effective C++》、《c++ prime
+r（第3版）》
+
+注意：虚函数，多态，继承，析构函数等机制。String类的构造函数，拷贝构造函数，赋
+值函数。
+
+2、数据结构：《清华大学严蔚敏版》
+
+   注意：建议学习链表，双链表，队列，循环队列，栈，二叉树，所有的排序方法（时间
+复杂度、空间复杂度、必须对这几个算法烂熟于心），二叉查找树。
+
+3、数据库（常用SQL语句）：这个用咱们的教材就行，就是黑皮的《数据库系统概念》，
+
+
+注意：如果你的建立中有涉及到数据库相关东西的项目，可以再详细看看你使用的数据库
+产品的相关教材，如果能在调优的问题上能说出个一、二、三，估计一般的DBA的职位应该
+没问题了
+
+4、操作系统：《计算机操作系统（第三版）汤小丹等》
+
+注意：掌握进程线程，同步，文件系统和页管理机制等。
+
+5、网络：《计算机网络第四版》（蓝皮的，考研用的那个）、《TCP/IP详解》（卷一就足
+够了，其实前面那个蓝皮的应付一般的考试基本都没问题了）
+
+二、拓展业务知识：
+
+6、Linux：《鸟哥私房菜》、《Linux程序设计》
+
+7、算法：《算法分析与设计（王晓东版）》，最好的书自然是《算法导论》；
+
+注意：去牛的公司，像微软、Google，算法就是王道，但是并不是非要看完算法导论的，
+王晓东那版算是足够了。
+
+8、设计模式：《Head First》（这个书很好，特别可爱，看着有趣，但是挺贵，呵呵），
+（java方向的同学可以看《java设计模式》）
+
+9、最后程序员面试宝典，请大家抱着挑错掸着挑错的心情去看，不建议大家直接看答案，事实证明
+，树上的答案并不一定有你想的好，而且也有错误。但是很多问题是面试中真的会问到的
+，希望可以自己答，即使是翻教材去答、上网搜索，都不要直接背书上的答案。
+
+PS：在此列基本其他的书，不仅仅是技术，而是上升一个层次去看问题了：
+    《编程之美》很多人懂得，不多说了。
+     《在线为王》如果你想进互联网公司，想做搜索或者产品，可以看看，很好的一本书
+。
+      《这些道理没有人告诉你》很经典的求职书籍，但是不要别人怎么做、怎么回答的
+，只要了解求职招聘的流程就好，书中的问题自己整理、自己按照自己的实际情况回答。
+
+       《软件设计师考试一本通》《软考系列丛书（清华版，蓝色的，很多人都有的）》
+这个考试大家都知道的，如果能在招聘开始之前考一次挺好的，一般的笔试题得涵盖内容
+通过软考的复习，基本都能差不多了，尤其是对于一些考得非常浅、但是非常广的国企笔
+试，基本上做过软考的题，都不成问题了。
+        《求职英语》
+
+三、其他准备：
+
+10、行测：公务员的教材有很多，买了练一练，有好处的，很多公司都会考，不仅仅是国
+企考，但是当成娱乐做就好，对于计算机的学生来说，行测题还是很容易的，不用太投入
+，不然就本末倒置了，这个只是辅助而已。当然，立志考公务员的除外。我认真的研究过
+公务员的备考，以后会认真写个公务员的备考帖子。
+
+11、智力题：很多人把行测中的数学题逻辑题当成了智力题，很负责任的告诉大家，那些
+不是，智力题有很多，靠背是不行的，如果你想去好一点儿的公司，这些是必须具备的能
+力。
+
+例如：烧一根不均匀的绳要用一个小时，如何用它来判断半个小时 ? 这种级别的智力题就
+是最基础的了，网上会有一些，我自己也总结了一些，会放在后面的文章中，集中给出来
+。
+
+要学习的是如果解决问题，千万别想着背答案，因为你记不住。我曾经在面试中被问到过
+原题，由于太兴奋，我答错了；但是面试官又问了我其他的智力题，我都回答上来了，面
+试官很奇怪，为什么第一个相对简单的题我反而说不出来呢？我说因为我紧张，其实根本
+就是因为一直在想：标准答案是什么来着？而放弃了自己去思考。
+
+12、开放性试题：
+
+   你最成功的事？
+
+   你最失败的事？
+
+   你最难忘的事？
+
+   你受的最大的挫折或者打击是什么？
+
+   你最大的成就是什么？
+
+   等等之类的……
+
+   呼吁同学们，不要尝试立场发挥，好歹你没事儿的时候，可以想一想；但是也不要千篇
+一律：什么高考、考研、分手、失恋……基本70%都这么回答……如果你是面试官，你还能
+听得进去吗？但是也不要撒谎、不要编造家庭不幸的谎言，想一些真实的、轻松的、和人
+品、道德无关的角度去回答。
+
+四、网络资源：
+
+13、一个能注册账户的浏览器，保证你的账户、密码、用户名都可以存储下来，你在任何
+地
+
+方登陆这些信息都在，将所有的网申页面分类保存在收藏夹中，方便你查找和关注招聘动
+态；
+
+14、在所有的招聘网站上填写你的个人简历，这个过程是相当的痛苦，但是要认真。基本
+上你填写完这些公共招聘网站的个人简历之后，基本就知道所有公司在网申的时候要填写
+那些东西了，是个很好的梳理过程，如果你不知道应聘从哪里开始准备，我想，完成这个
+过程，基本你心里就有数了。但是这里是有技巧的：第一，你会的东西要详细，但是不要
+写别人没听过的东西，比如你是搞算法研究的，你的算法名全世界不超过10个人知道，你
+就不要写了，看看招聘要求有哪些技术，你就照着填，关键词匹配，这个大家都是搞计算
+机的，都懂得的；第二，要定期更新，第一次填写的时候，很多东西是假的、吹的、瞎写
+的，一定要定期更新，另外，你更新之后，简历就会更容易被hr检索到，这个就是栈呗，
+后进的先出，呵呵，你们懂的！第三，要有漂亮的简历照片，这个不用多说了，人都是视
+觉动物，但是别放明星的照片……
+
+15、一个招聘单位的进度表：
+
+    这个自己做就行了，我自己了一个这样的表，有招聘公司的名字、网申时间、笔试面
+试时间之类的，贴在墙上每天都能看到的位置，好处是，防止错过笔试、面试、网申之类
+的东西。
+
+     具体设计如下：（其实就是表头，下面都是表格，自己填就行了）
+
+公司名；岗位；网申截止日期（一般我提前24小时）；笔试时间、地点；一面时间地点；
+二面时间地点；终面时间地点；备注（这一栏我一般都写网申的用户名和密码或者公司的
+特殊要求）
+
+这样列好了表格，大家就自己往上填写就可以了，很清晰，而且不会遗忘，像我这种海投
+的人，把表格分了几类，航空航海；通信（移动、电信）；研究所；电力（总部下面有七
+个子公司，各个省的电力也都独立招聘）；外企（技术相关）；外企（咨询管理、快消行
+业）；银行；国企（一些咱们计算机很少听说的，但是福利很好的地方，比如“中再保”
+）
+
+ 
+
+这些是准备工作，一两天也就做完了，做好计划，好好执行，至于到底喜欢什么、做什么
+、选择什么，这个都是后话了。没有任何offer的时候，你还没有资格谈选择，与其犹豫、
+痛苦　�
+痛苦、迷茫、彷徨，不如开始行动。
+
+ 
+
+有句话说：选择永远要在努力之前，这句话非常非常争取，但是前提是，你有资格去选择
+。
+
+ 
+
+至于努力、未来、人生、兴趣爱好，我只能说：大家想得太远了，工作，只是一个小小的
+开始，和一生来比，这个找工作的过程，真的只是一个过程，就是大海中的一个小浪花，
+不要把它想得太严重。没有人会在一个行业、一个公司、一个工种做一辈子。如果你不清
+楚结果，不如享受过程。
+
+ 
+
+努力，总不会白费的。
+
+找工作的过程是个挺有趣的经历，有人觉得辛苦、有人觉得骄傲、有人觉得意犹未尽、有
+人觉得倍受打击，但是这是人生路上的一步，走过去了还有下一步，不是什么的开始、也
+不是什么的结束。不要觉得别人多么多么的优秀、聪明、有智慧、有能力，每个人都迷茫
+过，都困惑过。今天坐在台上，看着台下的师弟师妹，有些是自信满满，觉得自己一定能
+找的很好；有些是慌慌张张，觉得不知所措，其实，你们最终的结果也许不会有太大的区
+别，做好眼前的事最重要，别的都是“浮云”。
+
+还有一点，就是要团结。这个词可能土点儿，但是真的很重要。不要觉得这是个竞争，真
+的不是，很多职位，即使不是他的也不会是你的！每个职位都有适合它的人选，所以要和
+大家共享你的信息、你的经验、你的资源，不要一个人偷偷地看书、下载了资料藏着掖着
+的，挺没意思的。大家一起复习、一起去参加笔试面试、一起讨论、一起买正装、一起等
+结果，这个过程很美好，远比那一两个offer要美好的多。朋友，比工作重要，工作有太多
+太多等着你去选择，而朋友，一生能拥有的并不多，好好珍惜你身边这些单纯的大学朋友
+。我觉得，如果不是我的朋友们，我根本走不到最后。
+
+后续会介绍如何网申、如何做简历、如何准备自我介绍和面试中可能涉及到的问题、如何
+写求职信、如何搜索招聘信息、面试中的礼仪和注意问题、群面、技术面、压力面，如果
+可以的话，还会简单介绍一下计算机类岗位的不同吧，比如产品、销售、测试、研发的不
+同，或者是互联网、通信等大的行业的不一样，或者是一些比较奇怪的笔试、面试经历什
+么的。如果有写的不对的地方，大家别笑话，希望能在某一个小小的方面可以对大家的求
+职有所帮助。
+
+
+[<a href=bbscon?board=CCST&file=M.1306160719.A&num=4023>本篇全文</a>] [<a href='bbspst?board=CCST&file=M.1306160719.A&title=关于求职（1）——准备篇（基础篇）'>回复本文</a>] </pre></table><hr width=730 color=#c2e0ff><br><table width=610><pre>
+发信人: wuxiaoke (飞天), 信区: CCST
+标  题: Re: 关于求职（1）——准备篇（基础篇）
+发信站: 吉林大学牡丹园站 (Mon May 23 22:28:51 2011)
+
+
+很受到师姐的感染  我要自信  加油  奋斗  come on for a beautiful day
+
+[<a href=bbscon?board=CCST&file=M.1306160931.A&num=4024>本篇全文</a>] [<a href='bbspst?board=CCST&file=M.1306160931.A&title=Re: 关于求职（1）——准备篇（基础篇）'>回复本文</a>] </pre></table><hr width=730 color=#c2e0ff><br><table width=610><pre>
+发信人: shoujim (森海), 信区: CCST
+标  题: Re: 关于求职（1）——准备篇（基础篇）
+发信站: 吉林大学牡丹园站 (Mon May 23 22:47:14 2011)
+
+师姐你太猛了，膜拜
+
+
+
+[<a href=bbscon?board=CCST&file=M.1306162034.A&num=4025>本篇全文</a>] [<a href='bbspst?board=CCST&file=M.1306162034.A&title=Re: 关于求职（1）——准备篇（基础篇）'>回复本文</a>] </pre></table><hr width=730 color=#c2e0ff><br><table width=610><pre>
+发信人: songpeace (peace), 信区: CCST
+标  题: 计算机学院的求职宝典
+发信站: 吉林大学牡丹园站 (Tue May 24 08:37:38 2011)
+
+ 自己一直关注牡丹园中“找工作”那个板块，发觉有一个电子院的同学给电子院的人介绍
+求职经验，我就一直在想，什么时候咱们计算机学院也能有一个这样的师兄或者师姐，也
+能定期的发一些文章，让我们这些后辈们拜读呢？呵呵，总算是等到了这一天，曾师姐通
+过自己的亲身经历，向大家阐述自己的求职经历，这些经验是用金钱买不到的，当然也就
+显得异常珍贵。
+  真诚的希望其他师兄师姐也能坦诚的发表自己的看法，要是能连载一下自己的文章，或
+者在文章的开头写本期的话题，在文章的结尾写上下期的话题，那么这样的连载文章，会
+很吸引人，就像一本吸引人的“连载小说”，是很值得大家品位的，呵呵。
+
+[<a href=bbscon?board=CCST&file=M.1306197458.A&num=4027>本篇全文</a>] [<a href='bbspst?board=CCST&file=M.1306197458.A&title=计算机学院的求职宝典'>回复本文</a>] </pre></table><hr width=730 color=#c2e0ff><br><table width=610><pre>
+发信人: wulixiaodao (流风四壁), 信区: CCST
+标  题: Re: 关于求职（1）——准备篇（基础篇）
+发信站: 吉林大学牡丹园站 (Tue May 24 08:42:08 2011)
+
+观帖后，特意登录来膜拜
+
+
+[<a href=bbscon?board=CCST&file=M.1306197728.A&num=4028>本篇全文</a>] [<a href='bbspst?board=CCST&file=M.1306197728.A&7728.A&title=Re: 关于求职（1）——准备篇（基础篇）'>回复本文</a>] </pre></table><hr width=730 color=#c2e0ff><br><table width=610><pre>
+发信人: lanseyokey (微蓝蓝蓝), 信区: CCST
+标  题: 基础书籍篇--个人意见
+发信站: 吉林大学牡丹园站 (Wed May 25 10:38:28 2011)
+
+
+对于现在大三、研二的同学，下学期就开始找工作了，时间有限，不可能每本书都能看
+一遍，像《C++ Primer》一千多页，除非你每天看一章，否则全部看完还是需要很长时
+间的。
+下面给出一个书单，我基本看了这些书，大部分的笔试都过了。 
+
+基础篇：
+
+1. C 程序设计
+谭浩强版的重在基础，要是基础不牢固再过一遍吧；
+个人推荐Brian和Dennis的《C程序设计语言》，我看的是徐宝文的译本。
+
+2. C++ 程序设计
+谭浩强版依据重在基础，有人推荐看钱能版的（我没看过），可以搭配着《C++ Primer》
+一起看。
+注意：字符数组和字符串，数组和指针，函数指针及调用，const变量、常量，变量的生
+存周期，内存的申请和释放，类、继承、虚函数、多态等。
+
+3. 数据结构 
+这个是重点，我看的是吉大本科教材，刘大有老师编著的。
+链表，栈，二叉树，字符串匹配（KMP），哈希；
+排序，二分查找，二叉树的遍历（深度、广度，前序后序及中序的递归和迭代遍历）。
+
+
+4. 算法设计与分析
+我前前后后杂七杂八的看了三本：王晓东的《算法分析与设计》，算法导论，还有一本
+本科教材好像是华中科大出版社的。
+经典的书籍建议趁早看，不要等到要找工作了才开始看，我前两本是没看完。
+
+5. 操作系统
+我看的是本科教材，左万利老师编著的。
+重点：进程线程，进程的同步互斥，存储管理（分段、分页、段页），内存页面的调度
+和分配等。
+
+6. 计算机网络
+依旧看的本科教材，徐高潮老师编著的《计算机网络》。
+重点：ISO的7层结构，TCP/IP协议，IP地址及子网掩码，TCP三次握手等。
+
+7. 软件工程
+主要是 模块，测试方面，我看的本科教材（清华大学出版社）。
+
+8. 设计模式
+《大话设计模式》这本书讲的有意思，不过不够正规，建议还是正规的《设计模式》。
+掌握几个经典的常用的模式就行，如工厂模式等。
+
+8. Linux 相关
+《Unix入门经典》，《Linux私房菜》
+掌握linux下常用的基本命令，gdb调试，makefile文件等。
+高级的有：《Linux程序设计》、《UNIX环境高级编程》。
+
+9. 笔试面试相关
+程序员面试宝典、高质量编程、编程珠玑。
+
+进阶篇：
+C和指针，C专家编程
+C++ Primer, effective c++，Thinking in C++
+算法导论，编程之美
+Linux程序设计、linux下的C编程、shell编程
+UNIX环境高级编程，UNIX网络编程
+设计模式，STL
+
+
+
+
+
+
+--
+<font class=c37><font class=c31>与君初相识<font class=c35>犹如故人来<font class=c37>
+<font class=c37><font class=c32>相逢一笑泯恩仇<font class=c36>桃源深处乐逍遥<font class=c37>
+
+
+
+<font class=c37><font class=c35>※ 来源:·吉林大学牡丹园站 bbs.jlu.edu.cn·[FROM:<font class=c34>天空之城]<font class=c37>
+
+
+<font class=c31>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 59.72.109.*]<font class=c37>
+
+※ 修改:．lanseyokey 於 May 25 10:52:12 2011 修改本文．[FROM: 59.72.109.*] 
+[<a href=bbscon?board=CCST&file=M.1306291108.A&num=4053>本篇全文</a>] [<a href='bbspst?board=CCST&file=M.1306291108.A&title=基础书籍篇--个人意见'>回复本文</a>] </pre></table><hr width=730 color=#c2e0ff><br><table width=610><pre>
+发信人: zengyingying (宝贝驴), 信区: CCST
+标  题: Re: 基础书籍篇--个人意见
+发信站: 吉林大学牡丹园站 (Wed May 25 16:33:28 2011)
+
+蓝蓝说的对，基础的里面第一本掌握基本就可以了，有更高要求的，可以自己选择，
+时间有限的话不要贪多贪大。
+
+
+
+
+[<a href=bbscon?board=CCST&file=M.1306312408.A&num=4061>本篇全文</a>] [<a href='bbspst?board=CCST&file=M.1306312408.A&title=Re: 基础书籍篇--个人意见'>回复本文</a>] </pre></table><hr width=730 color=#c2e0ff><br><center>[<a href='javascript:history.go(-1)'>返回上一页</a>][<a href=bbsdoc?board=CCST>本讨论区</a>]</center>
+<br>
+</html>
+
+0
+

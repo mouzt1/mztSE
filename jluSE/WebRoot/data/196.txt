@@ -1,0 +1,24 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<body background='/mdbk1.gif' style="topmargin:20; background-attachment: fixed; scroll: auto;"><center>
+吉林大学牡丹园站 -- 主题文章阅读 [讨论区: CCST]<hr width=730 color=#c2e0ff><br><table width=610><pre>
+发信人: jlliushao (软件-刘少), 信区: CCST
+标  题: 花钱求开发一个PHP小程序，
+发信站: 吉林大学牡丹园站 (Mon May 23 21:39:42 2011)
+
+花钱求开发一个PHP小程序，只需要完成数据库的插入，修改，删除，读取操作，基本没有
+业务逻辑
+,联系：刘同学 15948364471  QQ：594124098
+
+[<a href=bbscon?board=CCST&file=M.1306157982.A&num=4021>本篇全文</a>] [<a href='bbspst?board=CCST&file=M.1306157982.A&title=花钱求开发一个PHP小程序，'>回复本文</a>] </pre></table><hr width=730 color=#c2e0ff><br><table width=610><pre>
+发信人: lawlielt (lawlielt), 信区: CCST
+标  题: Re: 花钱求开发一个PHP小程序，
+发信站: 吉林大学牡丹园站 (Sun May 29 22:09:55 2011)
+
+随便找本书 不就有了
+
+[<a href=bbscon?board=CCST&file=M.1306678195.A&num=4100>本篇全文</a>] [<a href='bbspst?board=CCST&file=M.1306678195.A&title=Re: 花钱求开发一个PHP小程序，'>回复本文</a>] </pre></table><hr width=730 color=#c2e0ff><br><center>[<a href='javascript:history.go(-1)'>返回上一页</a>][<a href=bbsdoc?board=CCST>本讨论区</a>]</center>
+<br>
+</html>

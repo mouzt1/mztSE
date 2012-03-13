@@ -1,0 +1,110 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: AutumnalMood (秋日物语), 信区: CCST
+标  题: 高德软件有限公司实习生招聘
+发信站: 吉林大学牡丹园站 (Thu May 26 21:44:54 2011)
+
+
+一、公司概况
+
+高德是国内领先的数字地图内容、导航和位置服务解决方案提供商。自2002年起步以来，
+
+
+各项业务取得了高速地发展，并已于2010年7月1日在美国纳斯达克股票市场成功上市，实
+
+
+现了公司发展新的历史性跨越。
+集团内高德软件有限公司于2002年成立，公司注册资本8000万元人民币，并拥有甲级导航
+
+
+电子地图测绘资质；集团内北京星天地信息科技有限公司拥有测绘航空摄影甲级资质。高
+
+
+德集团在海内外设有各类分支机构。行政总部设在中关村西区苏州街3号大恒科技大厦，4
+
+
+500平方米的写字楼包括行政办公、研发和市场销售三大部分；在昌平科技园区有近10000
+
+
+平方米的数据生产基地，数据制作队伍超过1000人；在厦门市软件园区设有3000多平方米
+
+
+研发基地；在上海、广州、成都、深圳等十多个城市设有办事处及本地技术服务与支撑队
+
+
+伍。目前集团员工规模为2000人。
+高德软件目前拥有的一个超过400人的研发团队，其中硕士以上学历者达100余人。公司的
+
+
+核心研发人员早在十几年前即开始从事电子地图相关的研发工作，拥有丰富的行业经验和
+
+
+深厚的技术积累。公司的研发团队目前主要从事地理信息数据生产平台研发、大规模地理
+
+
+信息数据的三维平台研发、位置信息搜索技术研发、导航引擎开发、位置服务无线互联网
+
+
+客户端产品的开发，位置服务平台的开发以及大规模运营服务开发等。
+
+二、招聘岗位
+
+为扩大公司人才储备，推动公司的进一步发展，高德软件现面向在校计算机、数学、物理
+
+
+相关专业本科生、硕士研究生提供若干软件研发实习职位。本次招聘的实习生主要从事公
+
+
+司数据质检平台的研发与设计。该平台设计技术较广，是在实际工作中锻炼的很好机会。
+
+
+
+
+三、职位要求
+
+1、能够在VS2008和VS2010环境下开发基础的C++程序
+2、有扎实的算法基础
+3、考虑事物全面
+4、了解软件工程
+5、责任心强、有进取心
+6、能够高效安排自己工作的时间
+7、有较强的英语读写能力
+其他：
+1、数据库编程原理知识扎实者优先
+2、编译原理知识扎实者优先
+
+四、薪金待遇
+
+1、本科实习生大约为安排宿舍1500元/月，不安排宿舍2000元/月。
+2、硕士研究生大约在安排宿舍2000元/月，不安排宿舍2500元/月。.
+3、表现优秀者可在毕业时直接获得留用机会。
+
+五、联系方式
+
+欢迎有志于共同携手进步的同学前来应聘，简历请发送至邮箱dong.zhao@autonavi.com，
+
+
+并请注明“应聘实习岗位”。
+
+--
+
+
+<font class=c36>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 10.60.38.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 99 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1
+><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/bg.gif></td><td><font color=red><a href=bbsqry?userid=AutumnalMood>AutumnalMood</a> </font> (秋日物语) 共上站 450 次，网龄 1295 天	巨蟹座  发表文章 516 篇<br><br>经验值：2031(老站友) 表现值：[14](还不错) 荣誉勋章：<font color=red>★</font> [0颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306417494.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306417494.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306417494.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306417494.A>修改文章</a>][<a href='bbspst?board=CCST&num=4075&file=M.1306417494.A&userid=AutumnalMood&title=Re: 高德软件有限公司实习生招聘 '>回文章</a>][<a href='bbstcon?board=CCST&root=130641749417494 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306411382.A&num=4074>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306417794.A&num=4076>下一篇</a>]</center>
+
+</html>
+
+0
+

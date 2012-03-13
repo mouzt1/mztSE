@@ -1,0 +1,79 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: lunarsea (月の海), 信区: CCST
+标  题: 硕士答辩后需上交的材料
+发信站: 吉林大学牡丹园站 (Wed May 18 09:51:01 2011)
+
+
+硕士答辩后需上交的材料
+一、论文
+根据答辩委员会意见修改论文后，上交纸质论文三本，电子版论文上传三处，具体要求如
+下：
+（一）论文三本（必须本人及导师签字），于本人答辩结束一周之内上交。排版及装璜格
+式严格按照学校要求，每一面的上方（天头）和左侧（订口）应分别留边25mm以上，下方
+（地脚）和右侧（切口）应分别留边20mm以上。论文装订剪裁后的尺寸为29.1×20.7cm。
+
+（二）电子版论文本人答辩结束一周之内上传，论文需转换为pdf格式：
+1、学位办（gim.jlu.edu.cn）中“硕士论文上传”；
+2、图书馆（<a target=_blank href='http://202.198.25.8:8001/paper/help.jsp）上传方式：'>http://202.198.25.8:8001/paper/help.jsp）上传方式：</a>
+
+请作者登录图书馆主页，点击“服务指南”下的“学位论文提交”进入博、硕士论文远程
+提交系统，按要求填写并提交表格，提交论文全文电子版。
+
+·         学号：要用半角，不能使用粗黑、圆圆的字体。　例：２００４３３１０４４
+ 要修改成2004331044。 
+&amp;#8226;姓名：中间不应留有空格。 &amp;#8226;中英文关键词：3-5个，中间用空格或英文状
+态下的分号;隔开。 &amp;#8226;参考文献：手动提交10条即可。 &amp;#8226;上载全文：系统只支
+持提交一个论文正文，正文可以是word/pdf中的任何一种格式，内容需与印刷本论文一致
+。不接受带有红色水印pdf文件、不接受带有修订格式的论文，并请去掉论文中的空白页。
+
+如果论文全文过大，上传有困难，请提交完基本信息与参考文献后，把论文主文件发至wh
+_s@jlu.edu.cn（10M以下）或shaowh1968@yahoo.com.cn(10M以上），并说明学号、姓名与
+具体困难。 &amp;#8226;论文续传修改：如论文上传意外终止或需要修改，不要重新提交，请
+进入"提交查询"，输入学号与密码后，找到自己的论文，点击相应表单名称后的（编辑）
+，修改字段数据或删除错误的论文电子文件，重新提交正确的文件。如输入密码后无效，
+即无法进入查询系统，请用空密码查询，即输入学号后直接点击“查询我的论文”。 · 
+        论文审核：学位论文网上提交成功的3个工作日后，在学位论文提交页面上点击“
+提交查询”，或登录您的邮箱，查询您的论文是否通过审核。若未通过，请查看原因并修
+改，直到审核通过。 
+ 
+3、软件学院电子阅览室<a target=_blank href='http://csw-ereading.jlu.edu.cn（必须为校内网，用户名及密码'>http://csw-ereading.jlu.edu.cn（必须为校内网，用户名及密码</a>
+均为学号）
+ 
+二、电子照片上传
+1. 电子照片上传方式
+    登录“gim.jlu.edu.cn”，在“论文答辩”栏中点击“照片上传”，将本人电子照片
+上传到系统中。
+    2. 电子照片要求
+    电子照片一律采用数码照片（. jpg 格式），不得采用扫描照片，且必须与学位证书
+上粘贴的照片一致。照片大小在10K－15K之间，不得超过15K。
+    凡需进行学历电子注册的研究生，其学位证书照片必须使用注册的照片，并将注册的
+电子照片上传到系统中。（网址：www.chsi.com.cn）
+ 
+三、离校通知单
+《离校通知单》可在“研究生管理信息系统”中自行打印，财务办公室、医院、图书馆、
+宿舍管理部门的章盖好后交至班级负责人处。未办好离校手续将不予发放
+办理时间：在学校规定离校时间的前一周办理。其它时间不予受理。
+
+--
+在哪里跌倒，就在哪里趴着
+
+<IMG SRC='http://pic.elmo.net.cn/zp/20085619152087.jpg'>
+<font class=c31>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 59.72.109.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 264 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/bo.gif></td><td><font color=red><a href=bbsqry?userid=lunarsea>lunarsea</a> </font> (月の海) 共上站 4767 次，网龄 1307 天	金牛座  发表文章 6537 篇<br><br>经验值：10306(超级大老) 表现值：[49](很好) 荣誉勋章：<font color=red>★</font> [24颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1305683461.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1305683461.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1305683461.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1305683461.A>修改文章</a>][<a href='bbspst?board=CCST&num=3973&file=M.1305683461.A&userid=lunarsea&title=Re: 硕士答辩后需上交的材料 '>回文章</a>][<a href='bbstcon?board=CCST&root=1305683461 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1305682601.A&num=3972>上一篇</a>][<a href=bbscon?board=CCST&file=M.1305685222.A&num=3974>下一篇</a>]</center>
+
+</html>
+
+0
+

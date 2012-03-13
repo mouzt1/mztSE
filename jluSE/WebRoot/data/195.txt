@@ -1,0 +1,30 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: jlliushao (软件-刘少), 信区: CCST
+标  题: 花钱求开发一个PHP小程序，
+发信站: 吉林大学牡丹园站 (Mon May 23 21:39:42 2011)
+
+花钱求开发一个PHP小程序，只需要完成数据库的插入，修改，删除，读取操作，基本没有
+业务逻辑
+,联系：刘同学 15948364471  QQ：594124098
+--
+
+
+<font class=c35>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 49.140.78.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 68 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/bg.gif></td><td><font color=red><a href=bbsqry?userid=jlliushao>jlliushao</a> </font> (软件-刘少) 共上站 60 次，网龄 1679 天	金牛座  发表文章 47 篇<br><br>经验值：1749(老站友) 表现值：[7](努力中) 荣誉勋章：<font color=red>★</font> [0颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306157982.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306157982.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306157982.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306157982.A>修改文章</a>][<a href='bbspst?board=CCST&num=4021&file=M.1306157982.A&userid=jlliushao&title=Re: 花钱求开发一个PHP小程序， '>回文章</a>][<a href='bbstcon?board=CCST&root=1306157982 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306156859.A&num=4020>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306160601.A&num=4022>下一篇</a>]</center>
+
+</html>
+
+0
+

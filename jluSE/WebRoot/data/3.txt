@@ -1,0 +1,12 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<br><br><br><br><br><center><pre>
+提示信息：  <font color=red>匆匆过客不能发表文章，请先登录</font><br><br>
+
+<a href=javascript:history.go(-1)>快速返回</a>
+</pre></center>
+</html>
+0
+

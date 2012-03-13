@@ -1,0 +1,122 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: lanseyokey (微蓝蓝蓝), 信区: CCST
+标  题: 基础书籍篇--个人意见
+发信站: 吉林大学牡丹园站 (Wed May 25 10:38:28 2011)
+
+
+对于现在大三、研二的同学，下学期就开始找工作了，时间有限，不可能每本书都能看
+一遍，像《C++ Primer》一千多页，除非你每天看一章，否则全部看完还是需要很长时
+间的。
+下面给出一个书单，我基本看了这些书，大部分的笔试都过了。 
+
+基础篇：
+
+1. C 程序设计
+谭浩强版的重在基础，要是基础不牢固再过一遍吧；
+个人推荐Brian和Dennis的《C程序设计语言》，我看的是徐宝文的译本。
+
+2. C++ 程序设计
+谭浩强版依据重在基础，有人推荐看钱能版的（我没看过），可以搭配着《C++ Primer》
+一起看。
+注意：字符数组和字符串，数组和指针，函数指针及调用，const变量、常量，变量的生
+存周期，内存的申请和释放，类、继承、虚函数、多态等。
+
+3. 数据结构 
+这个是重点，我看的是吉大本科教材，刘大有老师编著的。
+链表，栈，二叉树，字符串匹配（KMP），哈希；
+排序，二分查找，二叉树的遍历（深度、广度，前序后序及中序的递归和迭代遍历）。
+
+
+4. 算法设计与分析
+我前前后后杂七杂八的看了三本：王晓东的《算法分析与设计》，算法导论，还有一本
+本科教材好像是华中科大出版社的。
+经典的书籍建议趁早看，不要等到要找工作了才开始看，我前两本是没看完。
+
+5. 操作系统
+我看的是本科教材，左万利老师编著的。
+重点：进程线程，进程的同步互斥，存储管理（分段、分页、段页），内存页面的调度
+和分配等。
+
+6. 计算机网络
+依旧看的本科教材，徐高潮老师编著的《计算机网络》。
+重点：ISO的7层结构，TCP/IP协议，IP地址及子网掩码，TCP三次握手等。
+
+7. 软件工程
+主要是 模块，测试方面，我看的本科教材（清华大学出版社）。
+
+8. 设计模式
+《大话设计模式》这本书讲的有意思，不过不够正规，建议还是正规的《设计模式》。
+掌握几个经典的常用的模式就行，如工厂模式等。
+
+8. Linux 相关
+《Unix入门经典》，《Linux私房菜》
+掌握linux下常用的基本命令，gdb调试，makefile文件等。
+高级的有：《Linux程序设计》、《UNIX环境高级编程》。
+
+9. 笔试面试相关
+程序员面试宝典、高质量编程、编程珠玑。
+
+进阶篇：
+C和指针，C专家编程
+C++ Primer, effective c++，Thinking in C++
+算法导论，编程之美
+Linux程序设计、linux下的C编程、shell编程
+UNIX环境高级编程，UNIX网络编程
+设计模式，STL
+
+
+
+
+
+【 在 zengyingying 的大作中提到: 】
+: 
+:       今天去学院参加了什么求职经验交流会，我们这届的几个人向师弟师妹介绍一..
+: 己的求职过程，然后回答一些大家提出的问题。
+: 
+:        说实话，我没什么经验，我的教训更多一些。
+: 
+:        很多孩子问：这个职位是做什么的？那个职位是做什么的？要不要做技术？?.
+: 改行？女孩儿做技术有没有前途？会不会太累之类的。
+: 
+:        很明显，这些都是求职初期的问题，就是“思考期”吧，想想自己想做什么?.
+: 什么？喜欢做什么？
+: 
+:        振振说，应该树立目标，了解自己能做什么不能做什么，其实我很佩服他，?.
+: 是这么做的，我对他的offer表示膜拜……这样的人，是一流的，他清楚的知道自己?.
+: 什么，所以他的求职过程，包括他以后的人生，都会很快乐、很充实的度过。
+: 
+:        但是大多数的孩子应该都是和我一样，不知道自己想要的是什么。我想，把?.
+: 历写出来没什么意义，因为都过去了，但是我可以说一些经验教训，这些不仅仅是我..
+: 人的，还有很多同学、很多师哥师姐的宝贵经验。这些放在一起，还是有一定的参考..
+: 的。
+: (以下引言省略...)
+
+--
+<font class=c37><font class=c31>与君初相识<font class=c35>犹=c35>犹如故人来<font class=c37>
+<font class=c37><font class=c32>相逢一笑泯恩仇<font class=c36>桃源深处乐逍遥<font class=c37>
+
+
+
+<font class=c37><font class=c35>※ 来源:·吉林大学牡丹园站 bbs.jlu.edu.cn·[FROM:<font class=c34>天空之城]<font class=c37>
+
+
+<font class=c31>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 59.72.109.*]<font class=c37>
+
+※ 修改:．lanseyokey 於 May 25 10:52:12 2011 修改本文．[FROM: 59.72.109.*] </font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 42 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/gq.gif></td><td><font color=red><a href=bbsqry?userid=lanseyokey>lanseyokey</a> </font> (微蓝蓝蓝) 共上站 1802 次，网龄 2047 天	摩羯座  发表文章 11292 篇<br><br>经验值：12849(超级大老) 表现值：[70](优等生) 荣誉勋章：<font color=red>★</font> [31颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306291108.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306291108.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306291108.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306291108.A>修改文章</a>][<a href='bbspst?board=CCST&num=4053&file=M.1306291108.A&userid=lanseyokey&title=Re: 基础书籍篇--个人意见 '>回文章</a>][<a href='bbstcon?board=CCST&root=1306160719 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306289709.A&num=4052>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306296992.A&num=4054>下一篇</a>]</center>
+
+</html>
+
+0
+

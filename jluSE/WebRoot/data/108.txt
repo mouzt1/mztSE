@@ -1,0 +1,56 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: huiluo (珊林儿), 信区: CCST
+标  题: 《诚聘》java文档编辑软件 -价格500元
+发信站: 吉林大学牡丹园站 (Wed May 25 15:01:23 2011)
+
+
+功能：
+    A：替换功能：把其中的某些符号替换成其他的符号
+    B：排序功能：把文档的内容 以一个句子为单元全部打乱，再重新排列。
+    C：分割功能：把排序完后的文档分割成几个小的文档，大小我们可以自由控制
+    D：添加功能：对分割好的文章进行添加一些内容。
+                 a:添加的位置我们可以控制，比如说在文章的几个句子之后开始添加
+
+
+                 b:添加的内容：关键字+域名链接   最终组合成超链接格式的:&lt;a hre
+
+f="<a target=_blank href='http://www.域名.com>关键字'>http://www.域名.com>关键字</a>
+
+                               注：关键字跟域名链接 我们会以txt文档的形式导入，
+
+并且 他们之间可以随机组合
+                 c:文档开头：  文档的开头位置 都要添加 b中的关键字
+    组合功能：  把上面处理完的小文档 再重新组合成一个文档
+
+文档大小：一个文档20mb左右，一次可以选择好几个文档，当一个完成后，可以自动开始
+
+下一个，
+           处理完后的文档 保存在另外的文件夹中
+
+想要看原始材料 转换成 处理后的效果，可以联系下
+
+联系方式：15892077887 
+      QQ: 1546273239
+
+--
+
+
+<font class=c31>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 202.198.149.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 50 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/gr.gif></td><td><font color=red><a href=bbsqry?userid=huiluo>huiluo</a> </font> (珊林儿) 共上站 169 次，网龄 685 天	双鱼座  发表文章 19 篇<br><br>经验值：783(中级站友) 表现值：[3](赶快加油) 荣誉勋章：<font color=red>★</font> [0颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306306883.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306306883.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306306883.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306306883.A>修改文章</a>][<a href='bbspst?board=CCST&num=4057&file=M.1306306883.A&userid=huiluo&title=Re: 《诚聘》java文档编辑软件 -价格500元 '>回文章</a>][<a href='bbstcon?board=CCST&root=1306306883 '>同主题阅读</a>][<a href=bbref=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306304801.A&num=4056>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306309865.A&num=4058>下一篇</a>]</center>
+
+</html>
+
+0
+

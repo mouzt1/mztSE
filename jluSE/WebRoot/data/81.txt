@@ -1,0 +1,41 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: huiluo (珊林儿), 信区: CCST
+标  题: 《诚聘》邮件发送器—价格：500元
+发信站: 吉林大学牡丹园站 (Thu May 26 18:57:51 2011)
+
+
+诚聘》邮件发送器  价格：500元 (Java或其他能够实现的语言都可以开发)
+
+价格：500元
+
+功能：A.实现多个发件人向多个收件人发送邮件，并且他们之间是一一对应（A1--B1,A2-
+-B2,A3--B3........）
+      B.邮件的内容；每一封邮件的内容是以txt格式的，我们会集中放在一个文件夹中。
+邮件标题是从文章中随机抽取一句为标题。邮件内容为文章中的内容
+      C.标题前能够实现我们自己想要添加的词句（这个功能可以具体咨询一下）
+做的过程中，我们能帮助到的地方，可以尽量提出
+
+联系方式：15892077887
+      QQ: 1546273239
+--
+
+
+<font class=c32>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 202.198.149.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 67 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/gr.gif></td><td><font color=red><a href=bbsqry?userid=huiluo>huiluo</a> </font> (珊林儿) 共上站 169 次，网龄 685 天	双鱼座  发表文章 19 篇<br><br>经验值：783(中级站友) 表现值：[3](赶快加油) 荣誉勋章：<font color=red>★</font> [0颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306407471.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306407471.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306407471.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306407471.A>修改文章</a>][<a href='bbspst?board=CCST&num=4073&file=M.1306407471.A&userid=huiluo&title=Re: 《诚聘》邮件发送器—价格：500元 '>回文章</a>][<a href='bbstcon?board=CCST&root=1306407471 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306401041.A&num=4072>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306411382.A&num=4074>下一篇</a>]</center>
+
+</html>
+
+0
+

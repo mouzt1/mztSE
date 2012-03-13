@@ -1,0 +1,39 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<body background='/mdbk1.gif' style="topmargin:20; background-attachment: fixed; scroll: auto;"><center>
+吉林大学牡丹园站 -- 主题文章阅读 [讨论区: CCST]<hr width=730 color=#c2e0ff><br><table width=610><pre>
+发信人: sunduo (多多), 信区: CCST
+标  题: 求解答
+发信站: 吉林大学牡丹园站 (Tue May 24 20:09:56 2011)
+
+
+请问一下，如果其他学校的软件工程的学生想考计算机院的研究生需要考哪些专业课？麻
+烦大家解答下了~~谢谢~~
+
+[<a href=bbscon?board=CCST&file=M.1306238996.A&num=4043>本篇全文</a>] [<a href='bbspst?board=CCST&file=M.1306238996.A&title=求解答'>回复本文</a>] </pre></table><hr width=730 color=#c2e0ff><br><table width=610><pre>
+发信人: niguang (逆光的伞子), 信区: CCST
+标  题: Re: 求解答
+发信站: 吉林大学牡丹园站 (Tue May 24 21:02:15 2011)
+
+
+全国统考..
+
+计组  操作系统 网络 和数据结构
+
+[<a href=bbscon?board=CCST&file=M.1306242135.A&num=4044>本篇全文</a>] [<a href='bbspst?board=CCST&file=M.1306242135.A&title=Re: 求解答'>回复本文</a>] </pre></table><hr width=730 color=#c2e0ff><br><table width=610><pre>
+发信人: sunduo (多多), 信区: CCST
+标  题: Re: 求解答
+发信站: 吉林大学牡丹园站 (Wed May 25 15:51:05 2011)
+
+
+谢谢~~
+
+
+[<a href=bbscon?board=CCST&file=M.1306309865.A&num=4058>本篇全文</a>] [<a href='bbspst?board=CCST&file=M.1306309865.A&title=Re: 求解答'>回复本文</a>] </pre></table><hr width=730 color=#c2e0ff><br><center>[<a href='javascript:history.go(-1)'>返回上一页</a>][<a href=bbsdoc?board=CCST>本讨论区</a>]</center>
+<br>
+</html>
+
+0
+

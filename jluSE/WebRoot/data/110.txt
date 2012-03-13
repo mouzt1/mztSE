@@ -1,0 +1,125 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: amedao (哈罗啊), 信区: CCST
+标  题: 关于求职经验分享会之前的搜集问题的解答（前九个）
+发信站: 吉林大学牡丹园站 (Wed May 25 14:26:41 2011)
+
+下面是我关于几个问题的解答：10后面的没有解答，还望补充。。
+
+1.哪次求职经历让你最难忘？
+阿里巴巴云计算研究院，一天在清华南门咖啡厅，
+一面+二面+三面+高管面+HR面（五面） 
+一面基础只是：例如，首先实现一个链表，然后，比如说，做一个复杂的运算；最后在应
+用写的类实现一个算法。还出了 一个智力题，比如，十匹马 五个跑道，怎样安排比赛得
+出前三名，最少几场比赛？
+二面，我记得出了一个这样的题目，说北京的二号线，问题。说，到对角方向，两个方向
+距离一样，但是发现上班的时候，坐A方向车的概率是90%,请问为什么。
+ 曾经清华的中科院的在PK，也见过在MSRA实习的去面试，不过这个是北京招聘，貌似还有
+天津场。我们那个最后去Round Table的是30个人，从五百个人里面选。  很残忍的！举个
+例子，见到有人过了四面，出来在外面跟我们聊，问：“答的怎样？”答：“挺顺利的，
+还行。”结果没有五秒钟，负责找人的人事部的人，笑呵呵过来说：“同学，今天的面试
+到此为止。谢谢你的参与。”那人就站起来，背书包走了。
+2. 如何看待第一份工作？
+3. 哪次笔试或者面试经历让你印象最深刻？
+MSRA的面试+实习。质的突破+正视自己+谦虚诚实+计划Plan+清晰的头脑+进展Progress
+
+4. 在找到这份工作前，你做了哪些准备的？5. 对于计算机专业的学生来说，如果要去技
+术研发类公司求职，还有短短3个月时间，我们应该做哪些准备？8. 你觉得基础知识现在
+开始准备还来得及吗？
+	简历上面写的，都是我做的准备。项目经验，简历本身，自己介绍，自信心的简历，心态
+的调整，体力，
+6. 面试中常有要介绍项目经验的，请问你是怎么回答的？  7. 面试中，你觉得哪些是应
+该尽量避免的问题？
+
+¤面试官：你在项目中肯定会遇到技术难点吧，是怎样解决的呢？比如，如果那个东西自
+己实在搞不定，怎么处理？  
+因为在实习期间，确实遇到好多自己搞不定的东西，对这方面感受也比较深，所以回答起
+来，也很顺利。（我是这样回答的：遇到难题的时候，我会向旁边的人寻求帮助，因为在
+项目中也发现，其实有时候技术难题多半是自己钻牛角尖了，因为自己思路不太清晰导致
+，这个时候最重要的应该是理清自己的思路。比如在很多次向同事或者上级请教问题的时
+候，我过去说“我遇到一个比较难的问题。。。”，等我说完了，ta就问几个类似这样的
+问题：“这个问题的意义是什么”，“想解决什么样的问题”，“问题的特性是什么，通
+用问题还是特殊问题”“解决这个问题一般方法是什么”，等等问题，就通过问几个what
+,why,how，然后自己就会恍然大悟）。所以，经过这样几次情况之后，我遇到问题，会首
+先自己理清思路，多问自己几个what is the situation，why did this happen，how to
+ solve it ?
+   --当然这个因为，感触比较深，所以说起来。很自然。等我说完，感觉面试官，很满意
+，因为，他一直紧绷的脸有了认同的微笑。然后，开始拿旁边准备好的笔试纸。说，考考
+你几个基本知识吧。
+
+发现这是大公司的共同点，他们会针对你做过的项目中花时间最长的问，而且深入展开，
+几乎想问到你哪个代码是怎么写的（呵呵，没那么夸张哈）。。。总之，
+&amp;#61672;这样的人素质是很高的，即使ta对你的项目原来一点儿不了解，ta也会有勇气期
+望从你这里得到合理的解释，让你自圆其说! 
+&amp;#61672;而且这个时候要特别注意，要说明白哪些是自己做的，自己不熟悉，或者答不上
+来的不要细说（甚至干脆不说，如果他感兴趣你某个地方是怎样实现的，你就告诉那个地
+方你只是了解怎样实现的，因为不是你负责的），因为如果你不
+小心说了别人的工作，而
+且万一被面试官听懂了，ta在这个分支展开之后，会对自己很不利，对你负责的工作大打
+折扣。如果没控制好面试进度和方向，自己就需要及时纠正面试官的理解，确保面试官了
+解了自己做的具体工作，然后ta着重介绍自己的具体工作。
+&amp;#61672;如果面试官对你展开点的突击，对某一方面问的很深，甚至刁钻，也没什么慌的
+，是你在给ta介绍工作，如果他问的问题很怪，是有些地方没讲清楚，好好考虑一下，然
+后介绍出来就可以。
+避免:说面试官不想知道的,避免不说面试官想知道的。展示自己。
+因为面试比较能忽悠啦（不过此处忽悠不是骗人的那个忽悠，是你领会面试官的意思，借
+机展现自己！让他/她在尽量短的时间内了解到真实的自己，最好有个思想碰撞的火花就好
+了&amp;#61514; ---开玩笑啦。不过要把握面试的基本原则，如果面试官一个劲在那动脑筋想
+话题问你，这个时候你就要注意了，这个一个不好的兆头，很有可能面试已经不是按照面
+试官事先设计好的思路走了；或者，如果面试官迫不及待的转下一个问题，我觉得也不是
+什么好兆头，估计之前的肯定有单票否决的中啦，最好是，很自然的过度，说完了，让面
+试官感觉“不用考察了，这个就是我需要的那个人”，然后很自然的谈然的谈谈下一个话题。
+
+9. 有些人觉得项目经验多更重要，有些人觉得基础知识更重要，但从一些例子看，无论准
+备哪个准备得好都能找到好工作，你认为面试官最看中的是什么呢？
+
+建议：
+几条路可以走，规划好自己的未来
+a)      或者选个牛公司实习，不要在乎钱多少，要在乎，它给你的回报是多少（就是找
+工作的时候能给你加多少分） 
+b)      或者在学校找准一个方向，自己感兴趣，有发展前景的，然后研究论文，发几篇
+牛paper,依照研究领域将底子打牢，就比如，可以是数学、统计、概率论等。不过这个时
+候有点儿危险的是，自己的编程实践能力相对得不到锻炼，然后找工作的时候就业面就窄
+。为了避免你自己研究的很牛，但是找工作的时候技术前几面过来，但是后来被刷，我觉
+得自己需要重点设定几个目标公司，研究一下公司需要的基本技能（基本技能，比如这个
+公司注重数据结构，或者网络编程等）
+面试官：注重可塑性！
+10. 能不能给大家介绍一下面试经验？
+11. XX公司的笔试和面试一般而言有几次？面试都是技术吗？
+12. 如何利用好暑假两个月的时间为求职做好准备，你有哪些建议？
+13. 如果不能去XX公司，想找一个跳板公司，工作一段时间后，能跳到XX公司吗？
+14. 你去XX公司面试时，你感觉XX公司最看重的是你哪一点？
+15. 为什么要选择XX公司，入职以后，将来有什么规划？给我们分享一下。
+16. 我想去银行工作，如果进入这个行业，能够介绍一下该行业的发展前景吗？
+17. 能够说一下银行的招聘试流程 和 笔试面试考察的基本内容吗？
+18. 有人说，银行部门相当难进，如果要进入这样的部门，应该有怎样的积累或者准备？
+
+19. 面对这么多公司，我不知道该如何选择，请问你们当初遇到过类似情况吗？如何处理
+的？
+
+霸笔+敢拼+自信&amp;总结
+书籍：
+Effective C++、编程之美、设计模式（+分）
+
+--
+
+
+<font class=c36>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 59.72.109.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 72 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/gq.gif></td><td><font color=red><a href=bbsqry?userid=amedao>amedao</a> </font> (哈罗啊) 共上站 235 次，网龄 1121 天	天蝎座  发表文章 209 篇<br><br>经验值：1413(高级站友) 表现值：[10](努力中) 荣誉勋章：<font color=red>★</font> [0颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306304801.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306304801.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306304801.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306304801.A>修改文章</a>][<a href='bbspst?board=CCST&num=4056&file=M.1306304801.A&userid=amedao&title=Re: 关于求职经验分享会之前的搜集问题的解答（前九个） '>回文章</a>][<a href='bbstcon?board=CCST&root=1306304801 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306297976.A&num=4055>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306306883.A&num=4057>下一篇</a>]</center>
+
+</html>
+/html>
+
+0
+

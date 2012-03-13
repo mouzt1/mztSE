@@ -1,0 +1,59 @@
+
+<html>
+<meta http-equiv='Content-Type' content='text/html; charset=gb2312'>
+<link rel=stylesheet type=text/css href='/bbs.css'>
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>吉林大学牡丹园站 -- 文章阅读 [讨论区: CCST]</td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<pre><font class=p105>发信人: lanseyokey (微蓝蓝蓝), 信区: CCST
+标  题: [转载] 南区卖计算机书籍
+发信站: 吉林大学牡丹园站 (Sun May 29 14:46:13 2011)
+
+<font class=c37>【 以下文字转载自 <font class=c32>DataRegie <font class=c37>讨论区 】
+<font class=c37>【 原文由 <font class=c32>lanseyokey <font class=c37>所发表 】<font class=c37>
+
+
+
+几本教材：
+《计算机图形学》  徐长青         6元
+《编译原理及实现技术》刘磊       6元
+《数值计算方法》  科学出版社	 5元
+《网络协议分析与故障诊断技术》吉林大学   3元
+
+三本经典书籍：
+《代码大全》第二版 史蒂夫迈克康奈尔著 电子工业出版社 30元
+《精通正则表达式》第三版 Jeffrey著 电子工业出版社 25元
+《UNIX环境高级编程》英文版 第二版 人民邮电出版社 有点旧 25元
+《Unix入门经典》张楚雄译本 清华大学出版社   10元
+
+QQ：418057452
+电话：15948367419
+
+
+--
+<font class=c37><font class=c31>与君初相识<font class=c35>犹如故人来<font class=c37>
+<font class=c37><font class=c32>相逢一笑泯恩仇<font class=c36>桃源深处乐逍遥<font class=c37>
+
+
+
+<font class=c37><font class=c35>※ 来源:·吉林大学牡丹园站 bbs.jlu.edu.cn·[FROM:<font class=c34>天空之城]<font class=c37>
+
+
+<font class=c37>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 59.72.109.*]<font class=c37>
+
+--
+
+
+<font class=c33>※ 来源:．吉林大学牡丹园站 bbs.jlu.edu.cn [FROM: 59.72.109.*]<font class=c37>
+</font></pre></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr></table><table width=600 border=0 cellspacing=0 cellpadding=0><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 align=center bgcolor=#EEEDED><img src=/lyb04.gif width=20 height=20></td><td width=600 bgcolor=#EEEDED class=f14>
+ 读者: 65 人次 </td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=4 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 height=8 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td><td width=600 colspan=2 height=1 bgcolor=#ffffff><img src=/d.gif width=1 height=1></td><td width=1 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr><tr><td width=1 bgcolor=#D4D3D1><br></td><td width=28 ><br></td><td width=600 class=l17 ><table width=610 border=0>
+<tr><td>
+<table><tr><td width=50><img src=/face/gq.gif></td><td><font color=red><a href=bbsqry?userid=lanseyokey>lanseyokey</a> </font> (微蓝蓝蓝) 共上站 1802 次，网龄 2047 天	摩羯座  发表文章 11292 篇<br><br>经验值：12849(超级大老) 表现值：[70](优等生) 荣誉勋章：<font color=red>★</font> [31颗] </td></tr></table></td></tr>
+</table></td><td width=1 bgcolor=#D4D3D1><br></td></tr><tr><td colspan=6 height=1 bgcolor=#D4D3D1><img src=/d.gif width=1 height=1></td></tr></table><br>
+[<a href=bbsfwd?board=CCST&file=M.1306651573.A>转寄/推荐</a>][<a href=bbsccc?board=CCST&file=M.1306651573.A>转贴</a>][<a onclick='return confirm("你真的要删除本文吗?")' href=bbsdel?board=CCST&file=M.1306651573.A>删除文章</a>][<a href=bbsedit?board=CCST&file=M.1306651573.A>修改文章</a>][<a href='bbspst?board=CCST&num=4095&file=M.1306651573.A&userid=lanseyokey&title=Re: [转载] 南区卖计算机书籍 '>回文章</a>][<a href='bbstcon?board=CCST&root=1306651573 '>同主题阅读</a>][<a href=bbsdoc?board=CCST>本讨论区</a>][<a href=bbscon?board=CCST&file=M.1306638687.A&num=4094>上一篇</a>][<a href=bbscon?board=CCST&file=M.1306657567.A&num=4096>下一篇</a>]</center>
+
+</html>
+
+0
+
